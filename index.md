@@ -1,46 +1,83 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<h2 class="center"> Join us every month!</h2>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+<div class="row">
+  <div class="span6">
+<iframe width="460" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;output=embed">ignore</iframe><br /><small><a href="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+  </div>
+  <div class="span6">
+  <h4>Every First Tuesday</h4>
+  <p>
+  Every first Tuesday is our official meetup where we get together at <a href="http://3rdspace.co/">3rdSpace</a> for
+  presentations from the community and then chat at a local bar. Talks generally range
+  from 30 to 90 minutes and are of any web or JavaScript related topic.
+  </p>
+  <h4>Every Third Tuesday</h4>
+  <p>
+  Every third Tuesday is our informal Hacknight where we get together for beer, chat,
+  and code. Members of all skill levels are welcome and it's a good time for questions
+  and discussion. If you have a particular topic, post on the <a href="http://www.meetup.com/sandiegojs/">meetup board</a> to gain interest.
+  </p>
+  </div>
+</div>
 
-## Update Author Attributes
+<hr>
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+<div class="row">
+  <div class="span8">
+    <h2>Recent Community Posts</h2>
+    <ul class="posts">
+      {% for post in site.posts limit:5 %}
+      <li>
+      <div>
+        <a href="{{ BASE_PATH }}{{ post.url }}"><h4>{{ post.title }} <small> - {{ post.date | date_to_string }}</small></h4></a>
+        <div class="post-content">
+          <p>{{ post.content | strip_html | truncatewords:75}}</p>
+        </div>
+      </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="span4">
+    <div class="well">
+      <h4>Fancy yourself a writer?</h4>
+      <p>
+        Anyone can submit a blog or article!
+      </p>
+      <p>
+        You submit articles to sandiego.js through github just as you would any other open source project.
+      </p>
+      <p>
+        <a href="github.html">Learn How!</a>
+      </p>
+    </div>
+  </div>
+</div>
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+<hr>
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+### Sponsored and supported by
 
-    $ rm -rf _posts/core-samples
+<div class="b-sponsors">
+  <div class="row">
+    <div class="span4">
+      <a href="http://fashioningchange.com/"><img src="{{ASSET_PATH}}/img/brands/fashioningchange.png" alt="FashioningChange" class="logo logo-fc"></a>
+    </div>
+    <div class="span4">
+      <a href="http://onehealth.com/"><img src="{{ASSET_PATH}}/img/brands/onehealth.png" alt="OneHealth" class="logo logo-onehealth"></a>
+    </div>
+    <div class="span4">
+      <a href="http://3rdspace.co/"><img src="{{ASSET_PATH}}/img/brands/3rdspace.png" alt="3rdSpace" class="logo logo-3rdspace"></a>
+    </div>
+  </div>
+</div>
 
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+[meetup]: http://www.meetup.com/sandiegojs/ "Meetup.com page"
+[github]: https://github.com/sandiegojs/sandiegojs.github.com "Sandiego.js Github site"
+[issues]: https://github.com/sandiegojs/sandiegojs.github.com/issues "Sandiego.js issue tracker"
+[3rdspace]: http://3rdspace.co/ "3rdSpace"

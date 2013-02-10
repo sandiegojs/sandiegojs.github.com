@@ -1,9 +1,45 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
-</div>
 
-<div class="row">
-  <div class="span12">
-    {{ content }}
+
+<div class="b-callouts js-callouts">
+  <div class="container">
+
+    <div class="row">
+      <h3>Next and recent meetups</h3>
+      <div class="span4 b-calloutItem js-calloutItem js-calloutTBD hide">
+        <div class="b-calloutItem__inner">
+          <h4 class="speaker">TBD<small class="date">Next meetup</small></h4>
+          <span class="topic">TBD</span>
+          <p class="details">This page will automatically update when a new meetup is posted</p>
+        </div>
+      </div>
+      {% for presentation in site.categories.meetups limit:3 %}
+
+      <div class="span4 b-calloutItem js-calloutItem">
+        <div class="b-calloutItem__inner">
+          <a href="{{ presentation.url }}">
+            <h4 class="speaker">{{ presentation.speaker }}<small class="date" data-date="{{ presentation.meetupDate }}">{{ presentation.meetupDate | date:"%a, %b %d" }}</small></h4>
+            <span class="topic">{{ presentation.topic }}</span>
+            <p class="details">{{ presentation.details }}</p>
+          </a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
+
+
+<div class="container">
+  <div class="content">
+    <div class="page-header">
+      <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+    </div>
+    <div class="row">
+      <div class="span12">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>
+
+
