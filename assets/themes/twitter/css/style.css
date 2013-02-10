@@ -7,6 +7,11 @@ html, body {
   text-align:center;
 }
 
+a.brand {
+  text-decoration: inherit;
+  color:inherit;
+}
+
 .brand {
   font-family:myriad-pro,sans-serif;
   color:white;
