@@ -14,12 +14,12 @@
   <![endif]-->
 
   <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-  <!--<script src="{{ ASSET_PATH }}/js/moment.min.js"></script>-->
   <script src="{{ ASSET_PATH }}/js/site.js"></script>
 
   <!-- Le styles -->
   <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.responsive.css" rel="stylesheet">
+  <link href="{{ ASSET_PATH }}/bootstrap/css/font-awesome.css" rel="stylesheet">
   <link href="{{ ASSET_PATH }}/css/myriad-pro.css" rel="stylesheet" type="text/css" media="all">
   <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
@@ -39,7 +39,12 @@
   <div class="container">
     <div class="row">
       <h1 class="span12"><a href="/" class="brand">sandiego<span class="brand-ext">.js</span></a></h1>
-      <h3 class="span12">{{ site.tagline  }}</h3>
+      <h3 class="span8">{{ site.tagline  }}</h3>
+      <div class="pull-right b-socialIcons">
+        <a href="https://twitter.com/sandiegojs"><i class="icon icon-twitter"></i></a>
+        <a href="https://plus.google.com/communities/115498247225378951183"><i class="icon icon-google-plus"></i></a>
+        <a href="https://github.com/sandiegojs/"><i class="icon icon-github"></i></a>
+      </div>
     </div>
   </div>
 </header>

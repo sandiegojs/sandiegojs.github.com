@@ -26,6 +26,38 @@ a.brand {
   }
 }
 
+.b-socialIcons {
+  font-size:30px;
+  line-height:60px;
+}
+
+.b-socialIcons .icon {
+  -webkit-transition-property:color, background-color;
+  -webkit-transition-duration:200ms;
+  -moz-transition-property:color, background-color;
+  -moz-transition-duration:200ms;
+  transition-property:color, background-color;
+  transition-duration:200ms;
+  color:white;
+  padding:2px;
+  border-radius:4px;
+  width:32px;
+  text-align:center;
+}
+.b-socialIcons .icon:hover {
+  background-color:white;
+  text-decoration: none;
+}
+.icon-twitter:hover {
+  color:#4099ff;
+}
+.icon-google-plus:hover {
+  color:#dd4b39;
+}
+.icon-github:hover {
+  color:black;
+}
+
 .inverse {
   background-color: #222;
   color:white;
@@ -163,4 +195,14 @@ footer {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+
+@media (max-width: 767px) {
+  body {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .container {
+    padding-left:10px;
+    padding-right:10px;
+  }
+}
