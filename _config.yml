@@ -17,6 +17,23 @@ author :
   github : sandiegojs
   twitter : sandiegojs
   feedburner : sandiegojs
+authors:
+  jsoverson:
+    name: Jarrod Overson
+    display_name: Jarrod
+    gravatar: 74be2e435d69a5827de7b5d33e7b343d
+    email: jsoverson@gmail.com
+    web: http://jarrodoverson.com
+    twitter: jsoverson
+    github: jsoverson
+  jstrimpel:
+    name: Jason Strimpel
+    display_name: Jason
+    gravatar: 6bdfb79d08504f6f90ea2716fae9231c
+    email: jstrimpel@gmail.com
+    web: https://github.com/jstrimpel
+    twitter: jstrimpel
+    github: jstrimpel
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

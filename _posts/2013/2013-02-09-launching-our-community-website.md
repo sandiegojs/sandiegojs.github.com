@@ -3,6 +3,7 @@ layout: post
 category : news
 tags : [sandiegojs, github]
 title : Launching our community-focused website
+author : jsoverson
 ---
 {% include JB/setup %}
 

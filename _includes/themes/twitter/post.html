@@ -1,4 +1,6 @@
 
+{% assign author = site.authors[page.author] %}
+
 <div class="container">
   <div class="content">
 
@@ -30,6 +32,30 @@
   </div>
   
   <div class="span4">
+
+    <h4>Author</h4>
+    <div class="byline">
+      {% if author %}
+      <p>
+        <a href="{{author.web}}">{{ author.name }}</a>
+        {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}"><i class="icon icon-twitter"></i></a>{% endif %}
+        {% if author.github %}<a href="http://github.com/{{ author.github }}"><i class="icon icon-github-alt"></i></a>{% endif %}
+
+      </p>
+      <p>
+        <a href="{{author.web}}"><img src="https://secure.gravatar.com/avatar/{{ author.gravatar }}?s=80" class="byline-image"></a>
+      </p>
+      {% else %}
+      <p>
+        <a href="http://sandiegojs.org/">sandiego.js</a>
+      </p>
+      <p>
+        <a href="http://sandiegojs.org/"><img src="{{ASSET_PATH}}/img/sdjs-358x358.png" class="byline-image"></a>
+      </p>
+      {% endif %}
+    </div>
+
+
     <h4>Published</h4>
     <div class="date"><span>{{ page.date | date:"%a, %b %d" }}</span></div>
 
