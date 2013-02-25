@@ -69,7 +69,7 @@ layout: page
       <a href="http://fashioningchange.com/"><img src="{{ASSET_PATH}}/img/brands/fashioningchange.png" alt="FashioningChange" class="logo logo-fc"></a>
     </div>
     <div class="span4">
-      <a href="http://onehealth.com/"><img src="{{ASSET_PATH}}/img/brands/onehealth.png" alt="OneHealth" class="logo logo-onehealth"></a>
+      <a href="http://github.com/onehealth/"><img src="{{ASSET_PATH}}/img/brands/onehealth.png" alt="OneHealth" class="logo logo-onehealth"></a>
     </div>
     <div class="span4">
       <a href="http://3rdspace.co/"><img src="{{ASSET_PATH}}/img/brands/3rdspace.png" alt="3rdSpace" class="logo logo-3rdspace"></a>
