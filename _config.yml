@@ -101,13 +101,13 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-38764962-1'
     getclicky :
       site_id : 
     mixpanel :
         token : '_MIXPANEL_TOKEN_'
 
-  # Settings for sharing helper. 
+  # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
   # Set 'provider' to the sharing provider you want to use.
   # Set 'provider' to false to turn sharing off globally.

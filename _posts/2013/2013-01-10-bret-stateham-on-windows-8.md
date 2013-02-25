@@ -2,7 +2,7 @@
 layout: post
 category : meetups
 tags : [presentation, meetup, windows, windows8]
-title : JavaScript apps on Windows 8
+title : Meetup - JavaScript apps on Windows 8
 speaker : Bret Stateham
 meetupDate : 2013-02-05
 topic : Windows 8
