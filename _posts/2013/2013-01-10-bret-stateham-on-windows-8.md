@@ -16,6 +16,13 @@ In this session, we will cover the basics of the Windows 8 operating system and 
 leverage their existing skills to create first class applications that run on Windows 8 RT.  In addition, we will
 take a quick look at a few of the tools that are available for building games on Windows 8.  I Hope to see you there!
 
+## Presentation links
+
+- [Slides & Demos](http://aka.ms/130205sdjs)
+- [Programming Windows 8 apps ebook](http://blogs.msdn.com/b/microsoft_press/archive/2012/10/29/free-ebook-programming-windows-8-apps-with-html-css-and-javascript.aspx)
+
+<iframe src="http://www.youtube.com/embed/X3Kldqju_Jw" frameborder="0" style="width:560px;height:315px">ignore</iframe>
+
 ### About Bret
 
 Bret Stateham is a Microsoft Developer Evangelist based in Southern California.
