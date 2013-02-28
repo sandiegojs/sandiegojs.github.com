@@ -64,7 +64,7 @@ jQuery plugin later.
 
 *To be continued...*
 
-### About Jason Strimpel
+#### About Jason Strimpel
 
 Jason Strimpel is a Staff Software Engineer [@WalmartLabs](http://www.walmartlabs.com/) in Carlsbad, CA. 
 Jason is a right picture, big brain developer. Jason is mostly harmless. In his free time he 
