@@ -1,7 +1,7 @@
 ---
 layout: post
 category : meetups
-tags : [presentation, meetup, windows, windows8]
+tags : [presentation, meetup, coffeescript]
 title : Meetup - Intro to CoffeeScript
 speaker : Kevin English
 meetupDate : 2013-03-05
