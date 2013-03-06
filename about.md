@@ -14,7 +14,7 @@ we've had secondary meetups at OneHealth in Solana Beach and Qualcomm offices in
 
 ## The team
 
-The core organizers of the group are Kevin Ball, Patrick Crowley, Jarrod Overson, and Jason Strimpel with help from many others.
+The core organizers of the group are Kevin Ball, Patrick Crowley, Jarrod Overson, and Jason Strimpel, with help from many others.
 If anyone is interested in helping out in any regard, please let us know via a [github issue][issues], email,
 or by poking us on the shoulder at any meetup.
 
