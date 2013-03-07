@@ -23,3 +23,10 @@ plunging into CoffeeScript on your next project.
 ### About Kevin English
 
 Kevin Engish is a Ruby on Rails Developer currently working at [Nulu.com](http://nulu.com/)
+
+### Update
+
+The CoffeeScript examples from Kevin's talk can be found at:  
+
+[https://github.com/kenglishhi/cs-talk-sandiego-js](https://github.com/kenglishhi/cs-talk-sandiego-js)
+
