@@ -3,7 +3,7 @@ layout: post
 category : blog
 tags : [grunt, grunt-contrib-jasmine, istanbul, jasmine]
 title : JavaScript unit testing on steroids
-tagline : Grunt, jasmine, and istanbul all automated through phantomjs
+tagline : Automation and code coverage with grunt, jasmine, and istanbul
 author : jsoverson
 ---
 
@@ -91,7 +91,7 @@ Now you'll have coverage report lovingly stored in the `reports/coverage` direct
 
 ### 7. Whaaaat?
 
-I know, I'm surprised, too (and I wrote half this stuff).
+I know, I'm surprised, too (and I wrote some of the tooling).
 
 To run down what you've got if you followed these steps, you have:
 
