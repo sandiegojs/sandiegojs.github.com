@@ -55,7 +55,11 @@ a.brand {
   color:#dd4b39;
 }
 .icon-github:hover {
-  color:black;
+    color:black;
+}
+
+.icon-rss:hover {
+    color:#FF6600;
 }
 
 .inverse {
