@@ -32,9 +32,13 @@ layout: page
     <h2>Recent Community Posts</h2>
     <ul class="posts">
       {% for post in site.posts limit:5 %}
+      {% assign author = site.authors[post.author] %}
       <li>
       <div>
-        <a href="{{ BASE_PATH }}{{ post.url }}"><h4>{{ post.title }} <small> - {{ post.date | date_to_string }}</small></h4></a>
+        <a href="{{ BASE_PATH }}{{ post.url }}"><h4>{{ post.title }}
+          <small> - {{ post.date | date_to_string }} by {% if author %}{{author.name}}{% else %}{% if post.author %}{{post.author}}{%else%}by sandiego.js{%endif%}{% endif %}</small>
+          </h4>
+        </a>
         <div class="post-content">
           <p>{{ post.content | strip_html | truncatewords:75}}</p>
         </div>
