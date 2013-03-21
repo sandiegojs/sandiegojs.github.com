@@ -39,6 +39,14 @@ authors:
     web: https://github.com/jstrimpel
     twitter: StrimpelJason
     github: jstrimpel
+  kenglish:
+    name: Kevin English
+    display_name: Kevin
+    gravatar: 2e828037d79fbe8e85c922fd533c66fb
+    email: kenglish@gmail.com
+    web: http://honoluluhacker.com/
+    twitter: ken_glish
+    github: kenglishhi
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
