@@ -14,7 +14,7 @@ George Salcedo from Nokia will be in town to go over the slew of incentives
 for developers to take advantage on Nokia and Windows Phone devices.
 
 There are short term offers for thousands of dollars in money and products and George will
-start with a short presentation and then turn it over for a Q&A over a keg of Sculpin IPA.
+start with a short presentation and then turn it over for a Q&A over some food/snacks.
 He'll also be raffling off a Lumia 900 so make sure to get there early enough to get your
 name in.
 
