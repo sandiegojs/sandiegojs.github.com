@@ -8,7 +8,7 @@ $(function(){
 
     if (!calloutDate) return;
 
-    if (Date.now() > new Date(calloutDate)) {
+    if ((Date.now() - 24 * 60 * 60 * 1000) > new Date(calloutDate)) {
       $this.addClass('js-passed passed');
     } else {
       hasFutureCallout = true;
