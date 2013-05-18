@@ -70,7 +70,7 @@ layout: page
 <div class="b-sponsors">
   <div class="row">
     <div class="span4">
-      <a href="http://fashioningchange.com/"><img src="{{ASSET_PATH}}/img/brands/fashioningchange.png" alt="FashioningChange" class="logo logo-fc"></a>
+      <a href="http://geekgirlcamp.com/"><img src="{{ASSET_PATH}}/img/brands/geekgirl.png" alt="Geek Girl" class="logo"></a>
     </div>
     <div class="span4">
       <a href="http://github.com/onehealth/"><img src="{{ASSET_PATH}}/img/brands/onehealth.png" alt="OneHealth" class="logo logo-onehealth"></a>
@@ -79,13 +79,6 @@ layout: page
       <!--<a href="http://3rdspace.co/"><img src="{{ASSET_PATH}}/img/brands/3rdspace.png" alt="3rdSpace" class="logo logo-3rdspace"></a>-->
       <a href="http://jetbrains.com/"><img src="{{ASSET_PATH}}/img/brands/jetbrains.gif" alt="JetBrains" class="logo logo-jetbrains"></a>
     </div>
-  </div>
-  <div class="row">
-    <div class="span4">
-      <a href="http://geekgirlcamp.com/"><img src="{{ASSET_PATH}}/img/brands/geekgirl.png" alt="Geek Girl" class="logo"></a>
-    </div>
-    <div class="span4"></div>
-    <div class="span4"></div>
   </div>
 </div>
 
