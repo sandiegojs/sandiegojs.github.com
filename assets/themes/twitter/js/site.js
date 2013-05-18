@@ -17,5 +17,6 @@ $(function(){
 
   if (!hasFutureCallout) {
     $('.js-calloutTBD').show();
+    $('.js-calloutItem').last().remove();
   }
 });
