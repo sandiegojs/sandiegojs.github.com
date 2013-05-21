@@ -29,9 +29,13 @@ Please forward this posting, volunteer at the event, encourage others to volunte
 
 See you there. -Jason
 
-<a href="http://sandiego.geekgirltechcon.com/">
-	<img src="{{ASSET_PATH}}/img/posts/geek-girl-conference.jpg" alt="San Diego Geek Girl Tech Conference"/>
-</a>
+<br />
+<div class="text-center">
+	<a href="http://sandiego.geekgirltechcon.com/">
+		<img src="{{ASSET_PATH}}/img/posts/geek-girl-conference.jpg" alt="San Diego Geek Girl Tech Conference"/>
+	</a>
+</div>
+<br />
 
 #### About Jason Strimpel
 
