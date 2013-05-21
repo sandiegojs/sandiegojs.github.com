@@ -24,7 +24,8 @@ Great! How can I help? I am glad you asked...
 classiest city, San Diego, on June 29, 2013. And guess what San Diego JS has a 20% off promo code just for you,
 [SDJS13](http://sandiego.geekgirltechcon.com/)!
 
-Please forward this posting, volunteer at the event, encourage others to volunteer, and most importantly register and attend workshops!
+Please forward this posting, volunteer at the event, encourage others to volunteer, and most importantly
+[register](http://sandiego.geekgirltechcon.com/) and attend workshops!
 
 See you there. -Jason
 
