@@ -169,8 +169,6 @@ footer {
 }
 
 .byline-image {
-  width:60px;
-  height:60px;
   border: 4px solid hsl(200, 100%, 40%);
 }
 
@@ -215,4 +213,21 @@ footer {
     padding-left:10px;
     padding-right:10px;
   }
+}
+
+.team-list li {
+  margin-bottom:1em;
+}
+
+.avatar {
+}
+
+.avatar-small {
+  width:60px;
+  height:60px;
+}
+
+.avatar-default {
+  width:80px;
+  height:80px;
 }
