@@ -4,7 +4,7 @@ category : meetups
 tags : [presentation, meetup, editorconfig, cordova, phonegap]
 title : Meetup - Phonegap & EditorConfig
 speaker : Scott Mathson & Trey Hunner
-meetupDate : 2013-06-02
+meetupDate : 2013-06-04
 topic : Phonegap & EditorConfig
 details : Hybrid Development with Phonegap & EditorConfig for Tool Management
 ---
