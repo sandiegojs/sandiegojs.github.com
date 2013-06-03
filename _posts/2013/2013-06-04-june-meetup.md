@@ -25,5 +25,5 @@ of agile development, TDD and test automation. Currently doing hybrid mobile app
 ### About Trey Hunner
 
 Trey Hunner has been a student of web development for over a decade.  He uses JavaScript and Python habitually, organizes
-the San Diego HackerNews meetup and has been active in both sandiego.js and San Diego Python for over two years. He co-created
+the San Diego Hacker News meetup and has been active in both sandiego.js and San Diego Python for over two years. He co-created
 the EditorConfig project and is an active open source contributor.
