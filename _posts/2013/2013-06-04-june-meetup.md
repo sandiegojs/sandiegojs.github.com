@@ -16,6 +16,10 @@ with the [editorconfig](http://editorconfig.org/) project and how it might help 
 
 #### [RSVP at Meetup.com](http://www.meetup.com/sandiegojs/events/115584502/)
 
+### Presentation Links
+- [Slides for Trey's EditorConfig presentation](http://treyhunner.com/editorconfig-slides/)
+- [Slides for Scott's Hybrid Mobile App Development presentation](http://slid.es/scottmathson/hybrid-mobile-app-development)
+
 ### About Scott Mathson
 
 Scott Mathson is a software developer who works at Deltek on the Kona.com team. He is a strong proponent
