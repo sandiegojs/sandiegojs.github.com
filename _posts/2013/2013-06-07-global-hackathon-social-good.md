@@ -2,7 +2,7 @@
 layout: post
 category : news
 tags : [sandiegojs, geeklist, hackathon]
-title : Global Hackathon for Social Good&58; Mobile, June 28 – 30, 2013
+title : Global Hackathon for Social Good (Mobile), June 28 – 30, 2013
 author : jstrimpel
 ---
 
