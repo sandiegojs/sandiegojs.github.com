@@ -36,7 +36,7 @@ layout: page
       <li>
       <div>
         <a href="{{ BASE_PATH }}{{ post.url }}"><h4>{{ post.title }}
-          <small> - {{ post.date | date_to_string }} by {% if author %}{{author.name}}{% else %}{% if post.author %}{{post.author}}{%else%}by sandiego.js{%endif%}{% endif %}</small>
+          <small> - {{ post.date | date_to_string }} by {% if author %}{{author.name}}{% else %}{% if post.author %}{{post.author}}{%else%}sandiego.js{%endif%}{% endif %}</small>
           </h4>
         </a>
         <div class="post-content">
