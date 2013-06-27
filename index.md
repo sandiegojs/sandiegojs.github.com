@@ -80,6 +80,13 @@ layout: page
       <a href="http://jetbrains.com/"><img src="{{ASSET_PATH}}/img/brands/jetbrains.gif" alt="JetBrains" class="logo logo-jetbrains"></a>
     </div>
   </div>
+  <div class="row">
+    <div class="span4">&nbsp;</div>
+    <div class="span4">
+      <a href="http://www.walmartlabs.com/"><img src="{{ASSET_PATH}}/img/brands/walmartlabs.png" alt="@WalmartLabs" class="logo"></a>
+    </div>
+    <div class="span4">&nbsp;</div>
+  </div>
 </div>
 
 [meetup]: http://www.meetup.com/sandiegojs/ "Meetup.com page"
