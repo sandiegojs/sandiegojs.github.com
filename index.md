@@ -83,7 +83,7 @@ layout: page
   <div class="row">
     <div class="span4">&nbsp;</div>
     <div class="span4">
-      <a href="http://www.walmartlabs.com/"><img src="{{ASSET_PATH}}/img/brands/walmartlabs.png" alt="@WalmartLabs" class="logo"></a>
+      <a href="http://www.walmartlabs.com/"><img src="{{ASSET_PATH}}/img/brands/walmartlabs.png" alt="@WalmartLabs" class="logo logo-walmartlabs"></a>
     </div>
     <div class="span4">&nbsp;</div>
   </div>
