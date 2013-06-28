@@ -12,14 +12,18 @@ Do you fancy yourself a mobile developer? Are you a decent human being? Would yo
 Do you like free food, free beer, and geek swag? If you answered yes to at least one of these questions then have I got an event for you.
 
 [Geeklist](https://geekli.st/) is launching a global hackathon and there will a branch right here is San Diego.
-The event will begin June 28, 6:00PM. The [Ansir Innovation Center](http://aicenterca.com/) will be hosting the San Diego
-kick off, 6:00 - 8:00PM. Then teams will work remotely around the globe. Dinner is sponsored by
-[@WalmartLabs](http://www.walmartlabs.com/).
+The event will begin June 28, 6:00PM.
 
-- [Ansir Innovation Center, 4685 Convoy St. #210 , San Diego, CA](https://maps.google.com/maps?q=4685+Convoy+St&ie=UTF-8&hq=&hnear=0x80dbff9420971b35:0x73e61b8ba7e79938,4685+Convoy+St,+San+Diego,+CA+92111&gl=us&ei=QYTMUbCmFsSQiQLBm4DwBA&ved=0CC8Q8gEwAA)
+- The kickoff will be held at [Village 631](http://thevillageat631.com/), 6:00 - 8:00PM.
+  The CTO and a Senior developer from Geeklist will be hosting the kick off.
+- Saturday developers will be meeting at the [Ansir Center for Innovation](http://aicenterca.com/) for lunch, code,
+  and network (time TBD; check back later today)
 - [More Info](http://blog.geekli.st/post/52205604895/global-hackathon-for-social-good-mobile)
 - [Registration](https://docs.google.com/forms/d/1xd7-0jY0E-agNOjLCgxbgmt8LA09CEt7uTPRdKi6b6Q/viewform)
 - [Meetup Group](http://www.meetup.com/Geeklist-San-Francisco-Meetup-Series/events/122945502/)
+- Lunch on Saturday will be sponsored by [@WalmartLabs](http://www.walmartlabs.com/).
+
+<strong>Stay tuned for more updates!</strong>
 
 #### About Jason Strimpel
 
