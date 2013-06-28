@@ -16,8 +16,7 @@ The event will begin June 28, 6:00PM.
 
 - The kickoff will be held at [Village 631](http://thevillageat631.com/), 6:00 - 8:00PM.
   The CTO and a Senior developer from Geeklist will be hosting the kick off.
-- Saturday developers will be meeting at the [Ansir Center for Innovation](http://aicenterca.com/) for lunch, code,
-  and network (time TBD; check back later today)
+- Saturday developers will be meeting at the [Ansir Center for Innovation](http://aicenterca.com/) at 12:00PM for lunch and to code
 - [More Info](http://blog.geekli.st/post/52205604895/global-hackathon-for-social-good-mobile)
 - [Registration](https://docs.google.com/forms/d/1xd7-0jY0E-agNOjLCgxbgmt8LA09CEt7uTPRdKi6b6Q/viewform)
 - [Meetup Group](http://www.meetup.com/Geeklist-San-Francisco-Meetup-Series/events/122945502/)
