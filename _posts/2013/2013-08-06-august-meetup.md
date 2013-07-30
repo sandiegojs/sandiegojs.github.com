@@ -2,11 +2,11 @@
 layout: post
 category : meetups
 tags : [presentation, meetup, gnu, readline, cli, navigation timing api]
-title : Meetup - Browser Based CLI Library & Navigation Timing API
-speaker : Arne Claassen & James Andrew Vaughn (Andy)
+title : Meetup - Browser Based CLI & Navigation Timing API
+speaker : Arne Claassen & James Andrew Vaughn
 meetupDate : 2013-08-06
-topic : Browser Based CLI Library & Navigation Timing API
-details : Browser Based CLI Library & Navigation Timing API
+topic : Browser Based CLI & Navigation Timing API
+details : CLI support for the browser and debugging end-to-end latencies
 ---
 {% include JB/setup %}
 
@@ -43,6 +43,6 @@ Outside of work, he has a personal interest in functional programming as well as
 
 #### Andy' Topic
 
-Andy will speak about capturing data from the browser's navigation timing api from network latency , to time to first
+Andy will speak about capturing data from the browser's navigation timing api from network latency, to time to first
 byte from the web server, to the end of the request, and sending it back to your web server to capture the experience
 for your actual site users.
