@@ -14,7 +14,7 @@ Join us on Tuesday to hear Arne Claassen speak about josh.js, a browser implemen
 and James Andrew Vaughn speak about capturing data from the browser's navigation timing api. More details about
 the topics and the speakers are listed below.
 
-#### [RSVP at Meetup.com](http://www.meetup.com/sandiegojs/events/115584502/)
+#### [RSVP at Meetup.com](http://www.meetup.com/sandiegojs/events/125056732/)
 
 ### About Arne Claassen
 
