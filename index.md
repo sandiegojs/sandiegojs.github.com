@@ -7,18 +7,25 @@ layout: page
 
 <div class="row">
   <div class="span6">
-<iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;output=embed">ignore</iframe><br /><small><a href="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?ie=UTF8&amp;q=one+america+plaza&amp;fb=1&amp;gl=us&amp;hq=one+america+plaza&amp;cid=0,0,8488185815599770022&amp;ll=32.71589,-117.168994&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?ie=UTF8&amp;q=one+america+plaza&amp;fb=1&amp;gl=us&amp;hq=one+america+plaza&amp;cid=0,0,8488185815599770022&amp;ll=32.71589,-117.168994&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
   </div>
   <div class="span6">
   <h4>Every First Tuesday</h4>
   <p>
-  Every first Tuesday is our official meetup where we get together at <a href="http://3rdspace.co/">3rdSpace</a> for
+  Every first Tuesday is our official meetup where we get together at <a href="https://www.google.com/search?q=one+america+plaza">One America Plaza</a> for
   presentations from the community and then chat at a local bar. Talks generally range
   from 30 to 90 minutes and are of any web or JavaScript related topic.
   </p>
+</div>
+
+<div class="row">
+  <div class="span6">
+<iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;output=embed">ignore</iframe><br /><small><a href="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+  </div>
+  <div class="span6">
   <h4>Every Third Tuesday</h4>
   <p>
-  Every third Tuesday is our informal Hacknight where we get together for beer, chat,
+  Every third Tuesday is our informal Hacknight at <a href="http://3rdspace.co/">3rdSpace</a> where we get together for beer, chat,
   and code. Members of all skill levels are welcome and it's a good time for questions
   and discussion. If you have a particular topic, post on the <a href="http://www.meetup.com/sandiegojs/">meetup board</a> to gain interest.
   </p>
