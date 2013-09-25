@@ -9,9 +9,10 @@ layout: page
   <div class="span6">
   <h4>Every First Tuesday</h4>
   <p>
-  Every first Tuesday is our official meetup where we get together at <a href="https://www.google.com/search?q=one+america+plaza">One America Plaza</a> for
+  Every first Tuesday is our official meetup where we get together at <a href="https://www.google.com/search?q=one+america+plaza">One America Plaza</a>* for
   presentations from the community and then chat at a local bar. Talks generally range
-  from 30 to 90 minutes and are of any web or JavaScript related topic.
+  from 30 to 90 minutes and are of any web or JavaScript related topic.<br><br>
+  * <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to verify the venue!
   </p>
   </div>
   <div class="span6">
@@ -78,10 +79,10 @@ layout: page
 <div class="b-sponsors">
   <div class="row">
     <div class="span4">
-      <a href="http://geekgirlcamp.com/"><img src="{{ASSET_PATH}}/img/brands/geekgirl.png" alt="Geek Girl" class="logo"></a>
+      <a href="http://www.walmartlabs.com/"><img src="{{ASSET_PATH}}/img/brands/walmartlabs.png" alt="@WalmartLabs" class="logo logo-walmartlabs"></a>
     </div>
     <div class="span4">
-      <a href="http://github.com/onehealth/"><img src="{{ASSET_PATH}}/img/brands/onehealth.png" alt="OneHealth" class="logo logo-onehealth"></a>
+      <a href="http://github.com/onehealth/"><img src="{{ASSET_PATH}}/img/brands/fashioningchange.png" alt="OneHealth" class="logo logo-fc"></a>
     </div>
     <div class="span4">
       <!--<a href="http://3rdspace.co/"><img src="{{ASSET_PATH}}/img/brands/3rdspace.png" alt="3rdSpace" class="logo logo-3rdspace"></a>-->
@@ -91,7 +92,7 @@ layout: page
   <div class="row">
     <div class="span4">&nbsp;</div>
     <div class="span4">
-      <a href="http://www.walmartlabs.com/"><img src="{{ASSET_PATH}}/img/brands/walmartlabs.png" alt="@WalmartLabs" class="logo logo-walmartlabs"></a>
+      <a href="http://geekgirlcamp.com/"><img src="{{ASSET_PATH}}/img/brands/geekgirl.png" alt="Geek Girl" class="logo"></a>
     </div>
     <div class="span4">&nbsp;</div>
   </div>

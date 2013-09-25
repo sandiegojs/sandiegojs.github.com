@@ -8,7 +8,6 @@ markdown: redcarpet
 redcarpet:
   extensions: []
 
-auto: true
 pygments: true
 
 # Themes are encouraged to use these universal variables 
