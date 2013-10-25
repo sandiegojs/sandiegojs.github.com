@@ -2,7 +2,7 @@
 layout: post
 category : meetups
 tags : [workshop]
-title : Workshop - jQCon Call For Proposals 
+title : Workshop - jQCon Call For Papers 
 speaker : Adam Sontag
 meetupDate : 2013-11-07
 topic : jQuery Conference Speaker Proposal Workshop
@@ -14,7 +14,7 @@ jQuery is coming to town, [jQuery Conference, San Diego](http://events.jquery.or
 worry there are not any lists and doesn't matter if you have been naughty or nice. Although you should probably
 just be nice because no one likes a jerk. Anyway...
 
-The conference is in February but the Call For Speakers ends November 10th. This is an amazing opportunity to share your JavaScript and jQuery knowledge without having to travel to some 
+The conference is in February but the Call For Papers ends November 10th. This is an amazing opportunity to share your JavaScript and jQuery knowledge without having to travel to some 
 ridiculously cold location like Boston or San Francisco.
 
 However, before you can kick some knowledge and represent San Diego you have to submit a proposal to speak.
