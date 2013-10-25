@@ -12,7 +12,7 @@ layout: page
   Every first Tuesday is our official meetup where we get together at <a href="https://www.google.com/search?q=one+america+plaza">One America Plaza</a>* for
   presentations from the community and then chat at a local bar. Talks generally range
   from 30 to 90 minutes and are of any web or JavaScript related topic.<br><br>
-  * <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to verify the venue!
+  * <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and verify the venue!
   </p>
   </div>
   <div class="span6">
