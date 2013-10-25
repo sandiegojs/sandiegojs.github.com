@@ -8,7 +8,7 @@ meetupDate : 2013-11-07
 topic : jQuery Conference Speaker Proposal Workshop
 details : Join us at WalmartLabs in North County for help with your proposal!
 ---
-{% include JB/setup %}
+{% include JB/setup %} 
 
 jQuery is coming to town, [jQuery Conference, San Diego](http://events.jquery.org/2014/san-diego/). Don't
 worry there are not any lists and doesn't matter if you have been naughty or nice. Although you should probably
