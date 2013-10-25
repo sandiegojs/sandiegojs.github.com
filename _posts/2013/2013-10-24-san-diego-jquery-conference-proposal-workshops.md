@@ -18,8 +18,8 @@ This is an amazing opportunity to share your JavaScript and jQuery knowledge wit
 cold location like Boston; sorry [Bocoup](http://bocoup.com/) Boston is great, but it gets too cold for us Southern Californians.
 
 However, before you can kick some knowledge and represent San Diego you have to submit a proposal to speak.
-If you have never submitted a proposal before don't worry San Diego JavaScript has you covered. There will be a working session at WalmartLabs where those who are interested in submitting a proposal can get the low down from Adam Sontag via Skype. After this there
-will the opportunity to pitch ideas and work on your proposal.
+If you have never submitted a proposal before don't worry San Diego JavaScript has you covered. There will be a working session at WalmartLabs where those who are interested in submitting a proposal can get the low down from Adam Sontag via Skype. After that there
+will be the opportunity to pitch ideas and work on your proposal with the help of others.
 
 If you just want some feedback on your proposal or want to help others great. All are welcome.
 
