@@ -18,6 +18,7 @@ In no particular order, and subject to change, we have:
 - Building and deploying JavaScript with Grunt (Scott Mathson)
 - Overview of SASS, the CSS preprocessor (Dan Robert)
 - Common Development SEO Mistakes (Josh Ansell-McKinnon)
+- Software Engineers' Bodies Are Far Stronger Than You'd Think (Ryan Walsh)
 
 We will be meeting at 7:30 at [One America Plaza][venue] and will probably be around there for about an hour to an hour and a half.
 After the meetup we will venture out for drinks and chat to one of the nearby bars or restaurants.
