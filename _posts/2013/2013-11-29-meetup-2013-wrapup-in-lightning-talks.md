@@ -14,11 +14,13 @@ This month we'll be heading back down to [One America Plaza][venue] in downtown 
 
 In no particular order, and subject to change, we have:
 
-- Using JavaScript for 3d games with Unity (John Cozen)
 - Building and deploying JavaScript with Grunt (Scott Mathson)
-- Overview of SASS, the CSS preprocessor (Dan Robert)
+- Software Engineers Are Stronger Than You'd Think (Ryan Walsh)
+ - <a href="http://goo.gl/aiy8ra">Presentation slides</a>
+ - More info: <a href="http://mind.launchrock.com">http://mind.launchrock.com</a>
+- Using JavaScript for 3d games with Unity (John Cozen)
 - Common Development SEO Mistakes (Josh Ansell-McKinnon)
-- Software Engineers' Bodies Are Far Stronger Than You'd Think (Ryan Walsh)
+- Overview of SASS, the CSS preprocessor (Dan Robert)
 
 We will be meeting at 7:30 at [One America Plaza][venue] and will probably be around there for about an hour to an hour and a half.
 After the meetup we will venture out for drinks and chat to one of the nearby bars or restaurants.
