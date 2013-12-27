@@ -1,28 +1,32 @@
-!---
+---
 layout: post
 category : talent
 tags : [job]
-title : Joe Bagadonuts 
+title : Your Name 
 ---
-{% comment %} Make sure you remove the ! at line 1 character 1 and this entire line before saving. {% endcomment %}
+
+This is an example of a "talent" posting, a simple résumé highlighting your skills, experience, goals and contact information. You can [download the template](/examples/2013-12-10-talent-template.md) (written in [Markdown](http://daringfireball.net/projects/markdown/)) and simply replace the example text with your own information or change it up to suit your needs. When you're done, you can post it to the site ([How to submit a blog](/github.html)) or email it to [Jeff Brewer](mailto:jeffery.brewer@gmail.com). 
 
 ###Summary
-Ut vestibulum quis dui sit amet imperdiet. Nunc tincidunt neque vel placerat lobortis. Suspendisse in aliquet arcu, nec lobortis nulla. Nam facilisis ligula et nulla suscipit ornare. Fusce magna augue, rutrum imperdiet diam vel, sagittis auctor ante. Pellentesque convallis aliquet neque sed sagittis. Cras nibh massa, auctor in nisi vitae, malesuada tincidunt sapien. Nam mattis, tellus et pharetra sagittis.
+Characterize your strongest skills and experience in a paragraph or two here. Be concise. Consider linking to an onine resume (see below) to provide a more comprehensive account of your education and experience.
 
 ###Technical Highlights
-* Suspendisse in aliquet arcu, nec lobortis nulla. Nam facilisis ligula et nulla suscipit ornare. Fusce magna augue, rutrum imperdiet diam vel.
-* Ragittis auctor ante. Pellentesque convallis aliquet neque sed sagittis. Cras nibh massa, auctor in nisi vitae, malesuada tincidunt sapien. Nam mattis, tellus et pharetra sagittis.
-* Enim dui eleifend libero, a lacinia nibh tortor vitae elit. Morbi at sapien feugiat, convallis arcu et, malesuada erat. Mauris facilisis, enim vitae facilisis facilisis, enim urna scelerisque tellus, nec ornare sapien ligula sollicitudin ipsum. Ut fringilla volutpat diam quis aliquam. In venenatis lectus sit amet ultrices tempus.
+* Bullets work nicely here. 
+* Very specific tecnical skills.
+* Are you a beginner, intermediate or expert?
+* Special qualification or education?
 
 
 ###Seeking
-####Mauris facilisis, enim vitae facilisis facilisis
-Asdum, enim urna scelerisque tellus, nec ornare sapien ligula sollicitudin ipsum. Ut fringilla volutpat diam quis aliquam. In venenatis lectus sit amet ultrices tempus.
+What are your employment goals? Use this section to describe what you're looking for, and maybe what you're not looking for. 
 
 ###Resume
+If you have a resume available online you may wish to link to it here. 
 [My Resume](http://en.wikipedia.org/wiki/Brendan_Eich "Not Really Me")
 
 ###Contact
-Email: [Joe.Bagadonuts@somenet.org](mailto:a@b.c)
+How would you like to be contacted about job opportunities?
 
-Twitter: [@JBagadonuts](https://twitter.com/daringfireball)
+Email: [you@yourplace.org](mailto:you@yourplace.org)
+
+Twitter: [@YourTwitter](https://twitter.com/daringfireball)
