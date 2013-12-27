@@ -1,11 +1,9 @@
-!---
+---
 layout: post
 category : talent
 tags : [job]
 title : Your Name 
 ---
-{% comment %} Make sure you remove the ! at line 1 character 1 and this entire line before saving. {% endcomment %}
-
 This is an example of a "talent" posting, a simple résumé highlighting your skills, experience, goals and contact information. You can [download the template](/examples/2013-12-10-talent-template.md) (written in [Markdown](http://daringfireball.net/projects/markdown/)) and simply replace the example text with your own information or change it up to suit your needs. When you're done, you can post it to the site ([How to submit a blog](/github.html)) or email it to [Jeff Brewer](mailto:jeffery.brewer@gmail.com). 
 
 ###Summary

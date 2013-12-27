@@ -53,4 +53,4 @@ Check out 'How to submit a blog' on the <a href="github.html">How to Contribute<
 
 >[Example Talent Page](examples/2013-12-10-talent-example.html) | [Talent Template](examples/2013-12-10-talent-template.md)
 	
-If you're not familiar with how to post, or just don't have time for all that right now, you can just [send me a completed job or talent template](mailto:jeffery.brewer@gmail.com) and I'll submit it when I get a chance. 
+If you're not familiar with how to post, or just don't have time for all that right now, you can just [email Jeff Brewer](mailto:jeffery.brewer@gmail.com)  a completed job or talent template, and it will be submitted within a day or two. 
