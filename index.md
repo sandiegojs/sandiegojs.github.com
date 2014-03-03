@@ -9,7 +9,7 @@ layout: page
   <div class="span6">
   <h4>Every First Tuesday</h4>
   <p>
-  Every first Tuesday is our official meetup where we get together at <a href="https://www.google.com/search?q=one+america+plaza">One America Plaza</a>* for
+  Every first Tuesday is our official meetup where we get together at <a href="https://www.commnexus.org/incubator/">EvoNexus</a>* for
   presentations from the community and then chat at a local bar. Talks generally range
   from 30 to 90 minutes and are of any web or JavaScript related topic.<br><br>
   * <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and verify the venue!
@@ -27,7 +27,7 @@ layout: page
 
 <div class="row">
   <div class="span6">
-<iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=600+west+broadway&amp;aq=&amp;sll=32.715937,-117.159941&amp;sspn=0.012258,0.022724&amp;gl=us&amp;ie=UTF8&amp;hq=&amp;hnear=600+W+Broadway,+San+Diego,+California+92101&amp;ll=32.715937,-117.159941&amp;spn=0.012258,0.022724&amp;t=m&amp;z=14&amp;output=embed">ignore</iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=600+west+broadway&amp;aq=&amp;sll=32.715937,-117.159941&amp;sspn=0.012258,0.022724&amp;gl=us&amp;ie=UTF8&amp;hq=&amp;hnear=600+W+Broadway,+San+Diego,+California+92101&amp;ll=32.715937,-117.159941&amp;spn=0.012258,0.022724&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.903190390947!2d-117.16459374999997!3d32.715200099999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d954a8332298fb%3A0x6cc354fb420c0140!2sEvoNexus+Downtown+Incubator!5e0!3m2!1sen!2sus!4v1393870861070" style="color:#0000FF;text-align:left">View Larger Map</a></small>
   </div>
   <div class="span6">
 <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;output=embed">ignore</iframe><br /><small><a href="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
