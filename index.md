@@ -30,7 +30,7 @@ layout: page
 <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.903190390947!2d-117.16459374999997!3d32.715200099999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d954a8332298fb%3A0x6cc354fb420c0140!2sEvoNexus+Downtown+Incubator!5e0!3m2!1sen!2sus!4v1393870861070" style="color:#0000FF;text-align:left">View Larger Map</a></small>
   </div>
   <div class="span6">
-<iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;output=embed">ignore</iframe><br /><small><a href="https://maps.google.com/maps?q=3rdspace&amp;hl=en&amp;sll=32.824552,-117.108978&amp;sspn=0.956677,1.783905&amp;hq=3rdspace&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;ll=32.761366,-117.1452&amp;spn=0.014959,0.027874&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3355.169797378655!2d-117.14631904999999!3d32.7612288!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9551e47fe61ff%3A0xfdc1619caf7b6a70!2s3rdspace!5e0!3m2!1sen!2sus!4v1393870913734" style="color:#0000FF;text-align:left">View Larger Map</a></small>
   </div>
 </div>
 
