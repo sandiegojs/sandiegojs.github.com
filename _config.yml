@@ -46,6 +46,13 @@ authors:
     web: http://honoluluhacker.com/
     twitter: ken_glish
     github: kenglishhi
+  hbrysiewicz:
+    name: Heather Brysiewicz
+    display_name: Heather
+    gravatar: c1ab1a8a3169311b0062176c2814feff
+    email: h.a.brysiewicz@gmail.com
+    twitter: caligoanimus
+    github: hbrysiewicz
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
