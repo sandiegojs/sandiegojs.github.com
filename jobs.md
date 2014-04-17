@@ -5,6 +5,16 @@ tagline: Where Opportunity and Talent Intersect
 ---
 {% include JB/setup %}
 
+Need help with a job posting? Head over to our [Google Group](https://groups.google.com/forum/#!forum/sandiegojs) and drop us a line. One of us will take care of posting your job description for a small donation to our beer fund! (suggested donation of $25)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="U5U2LC55686LG">
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
 ##Jobs
 {% assign job_count = 0 %}
 {% assign talent_count = 0 %}
@@ -47,7 +57,7 @@ tagline: Where Opportunity and Talent Intersect
 
 ##How to Post
 
-Check out 'How to submit a blog' on the <a href="github.html">How to Contribute</a> page. 'Job' and 'Talent' postings are simple blog posts with the category set to "job" or "talent". 
+Check out 'How to submit a blog' on the <a href="github.html">How to Contribute</a> page. 'Job' and 'Talent' postings are simple blog posts with the category set to "job" or "talent".
 
 >[Example Job Page](examples/2013-12-10-job-example.html) | [Job Template](examples/2013-12-10-job-template.md)
 
