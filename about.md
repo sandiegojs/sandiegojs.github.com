@@ -15,6 +15,10 @@ we've had secondary meetups at OneHealth in Solana Beach and Qualcomm offices in
 If anyone is interested in setting up new topic-focused meetups, please let us know via a [github issue][issues], email,
 or by poking us on the shoulder at any meetup.
 
+### Keep Connected
+
+For general questions or conversation, get in touch with us through our [Google Group](https://groups.google.com/forum/#!forum/sandiegojs).
+
 ## The team
 
 <ul class="unstyled team-list">
@@ -68,6 +72,19 @@ or by poking us on the shoulder at any meetup.
     <div class="span3 pagination-centered">
       <img src="http://www.gravatar.com/avatar/6e2dbee8af46ad50428dc106b9a10096" class="avatar avatar-small"><br>
       <a href="mailto:patrick@mokolabs.com">Patrick Crowley</a>
+    </div>
+  </li>
+  <li class="row">
+    <div class="span3 pagination-centered">
+      <img src="http://www.gravatar.com/avatar/c1ab1a8a3169311b0062176c2814feff" class="avatar avatar-small"><br>
+      <a href="mailto:h.a.brysiewicz@gmail.com">Heather Brysiewicz</a>
+    </div>
+    <div class="span9">
+      <blockquote>
+      Heather Brysiewicz is an Ember.js developer recently transplanted
+      from Chicago. Along with her pomeranian, Squirt, she enjoys life at the
+      beach and long nights at coffee shops.
+      </blockquote>
     </div>
   </li>
 </ul>
