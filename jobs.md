@@ -5,7 +5,7 @@ tagline: Where Opportunity and Talent Intersect
 ---
 {% include JB/setup %}
 
-Need help with a job posting? Head over to our [Google Group](https://groups.google.com/forum/#!forum/sandiegojs) and drop us a line. One of us will take care of posting your job description for a small donation to our beer fund! (suggested donation of $25)
+Need help with a job posting? [Email the SanDiego.js Organizers Group](mailto:sandiegojs-organizers@googlegroups.com) with the posting information. One of us will take care of posting the job description for a small donation to our beer fund! (suggested donation of $25)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
