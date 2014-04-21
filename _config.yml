@@ -53,6 +53,13 @@ authors:
     email: h.a.brysiewicz@gmail.com
     twitter: caligoanimus
     github: hbrysiewicz
+  smathson:
+    name: Scott Mathson
+    display_name: Scott
+    gravatar: 9b8ef36043e38d1182acd8f3e1e1067f
+    email: smathson@gmail.com
+    twitter: smathson
+    github: smathson
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
