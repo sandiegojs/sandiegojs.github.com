@@ -53,6 +53,15 @@ authors:
     email: h.a.brysiewicz@gmail.com
     twitter: caligoanimus
     github: hbrysiewicz
+    web: http://hbrysiewicz.github.io
+  drobert:
+    name: Daniel Robert
+    display_name: Dan
+    gravatar: 7bc4c5263bd87380a775d22aa165b9f1
+    email: danielwrobert@gmail.com
+    twitter: danielwrobert
+    github: danielwrobert
+    web: http://cupofvoodoo.com
   smathson:
     name: Scott Mathson
     display_name: Scott
@@ -60,6 +69,7 @@ authors:
     email: smathson@gmail.com
     twitter: smathson
     github: smathson
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
