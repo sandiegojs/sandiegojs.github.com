@@ -53,6 +53,14 @@ authors:
     email: h.a.brysiewicz@gmail.com
     twitter: caligoanimus
     github: hbrysiewicz
+  drobert:
+    name: Daniel Robert
+    display_name: Dan
+    gravatar: 7bc4c5263bd87380a775d22aa165b9f1
+    email: danielwrobert@gmail.com
+    twitter: danielwrobert
+    github: danielwrobert
+	web: http://cupofvoodoo.com
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
