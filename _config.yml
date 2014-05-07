@@ -69,6 +69,14 @@ authors:
     email: smathson@gmail.com
     twitter: smathson
     github: smathson
+  treyhunner:
+    name: Trey Hunner
+    display_name: Trey
+    gravatar: 945d10168a7817c64276c164a57fa8de
+    web: http://treyhunner.com
+    email: trey@treyhunner.com
+    twitter: treyhunner
+    github: treyhunner
 
 
 # The production_url is only used when full-domain names are needed
