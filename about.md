@@ -19,6 +19,8 @@ or by poking us on the shoulder at any meetup.
 
 For general questions or conversation, get in touch with us through our [Google Group](https://groups.google.com/forum/#!forum/sandiegojs).
 
+We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#sandiegojs</a> channel on <a href="https://webchat.freenode.net/">FreeNode</a>.
+
 ## The team
 
 <ul class="unstyled team-list">
