@@ -18,7 +18,7 @@ layout: page
   <div class="span6">
   <h4>Every Third Tuesday</h4>
   <p>
-  Every third Tuesday is our informal Hacknight at <a href="http://3rdspace.co/">3rdSpace</a> where we get together for beer, chat,
+  Every third Tuesday is our informal Hacknight at <a href="https://www.fanpics.com/">Fanpics</a> where we get together for beer, pizza, chat,
   and code. Members of all skill levels are welcome and it's a good time for questions
   and discussion. If you have a particular topic, post on the <a href="http://www.meetup.com/sandiegojs/">meetup board</a> to gain interest.
   </p>
@@ -30,7 +30,7 @@ layout: page
    <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.903190390947!2d-117.16459374999997!3d32.715200099999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d954a8332298fb%3A0x6cc354fb420c0140!2sEvoNexus+Downtown+Incubator!5e0!3m2!1sen!2sus!4v1393870861070" style="color:#0000FF;text-align:left">ignore</iframe><br /><small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.903190390947!2d-117.16459374999997!3d32.715200099999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d954a8332298fb%3A0x6cc354fb420c0140!2sEvoNexus+Downtown+Incubator!5e0!3m2!1sen!2sus!4v1393870861070" style="color:#0000FF;text-align:left" style="color:#0000FF;text-align:left">View Larger Map</a></small>
   </div>
   <div class="span6">
-    <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3355.169797378655!2d-117.14631904999999!3d32.7612288!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9551e47fe61ff%3A0xfdc1619caf7b6a70!2s3rdspace!5e0!3m2!1sen!2sus!4v1393870913734">ignore</iframe><br /><small><a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3355.169797378655!2d-117.14631904999999!3d32.7612288!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d9551e47fe61ff%3A0xfdc1619caf7b6a70!2s3rdspace!5e0!3m2!1sen!2sus!4v1393870913734" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3355.905228814077!2d-117.1836484!3d32.741707100000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80deab2fc24b6337%3A0x2a9f5ed8e91c0508!2s2150+Washington+St!5e0!3m2!1sen!2sus!4v1401393363679" width="100%" height="250" frameborder="0" style="border:0"></iframe><br /><small><a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3355.905228814077!2d-117.1836484!3d32.741707100000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80deab2fc24b6337%3A0x2a9f5ed8e91c0508!2s2150+Washington+St!5e0!3m2!1sen!2sus!4v1401393363679">View Larger Map</a></small>
   </div>
 </div>
 
