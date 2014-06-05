@@ -18,7 +18,7 @@ Beer and pizza will be provided (feel free to bring your own), but YOU provide t
 
 ### Where?
 
-We meet at 7:00 inside the old Mission Brewery buiding. The main entrance is on the corner of Hancock and Washington. Signs will be posted so you know where to go from the front door to the Fanpics pad, [2150 Washington Street](https://www.google.com/maps/preview?ll=32.741707,-117.183648&z=15&t=m&hl=en-US&gl=US&mapclient=embed&q=2150+Washington+St+San+Diego,+CA+92110).
+We meet at 7:00 inside the old Mission Brewery building. The main entrance is on the corner of Hancock and Washington. Signs will be posted so you know where to go from the front door to the Fanpics pad, [2150 Washington Street](https://www.google.com/maps/preview?ll=32.741707,-117.183648&z=15&t=m&hl=en-US&gl=US&mapclient=embed&q=2150+Washington+St+San+Diego,+CA+92110).
 
 
 ### PARKING!
