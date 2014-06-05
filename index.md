@@ -21,7 +21,7 @@ layout: page
   Every third Tuesday is our informal Hacknight at <a href="https://www.fanpics.com/">Fanpics</a> where we get together for beer, pizza, chat,
   and code. Members of all skill levels are welcome and it's a good time for questions
   and discussion. If you have a particular topic, post on the <a href="http://www.meetup.com/sandiegojs/">meetup board</a> to gain interest.<br><br>
-  * Check out <a href="{{BASE_PATH}}/hacknight.html">this page</a> for more info on <b>parking</b>!
+  Check out <a href="{{BASE_PATH}}/hacknight.html">this page</a> for more info on <b>parking</b>!
   </p>
   </div>
 </div>
