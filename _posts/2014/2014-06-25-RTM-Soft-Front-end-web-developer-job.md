@@ -2,7 +2,7 @@
 layout: post
 category : jobs
 tags : [job]
-title : Example Job Position post
+title : Front End Web Developer (ASP.Net)
 ---
 
 ###Company Description
