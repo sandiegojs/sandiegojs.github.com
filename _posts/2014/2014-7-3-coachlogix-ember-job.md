@@ -7,7 +7,7 @@ title : JavaScript - Ember.js Developer [Downtown/Gaslamp]
 
 
 
-Are you a rock star JavaScript developer with client-side MVC experience looking for a chance to help lead development of an enterprise-grade web platform as part of a small, high-energy startup team?
+Are you a rock star JavaScript developer with Ember.js experience looking for a chance to help lead development of an enterprise-grade web platform as part of a small, high-energy startup team?
 
 
 ### WE ARE LOOKING FOR SOMEONE WHO FITS THE FOLLOWING PROFILE:
