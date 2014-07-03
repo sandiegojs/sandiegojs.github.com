@@ -27,7 +27,8 @@ We are CoachLogix: a San Diego-based startup getting ready to launch an exciting
 
 A few highlights of what we have to offer:
 
-* Privately-funded team with enough runway to reach profitability
+* Competitive Salary and Stock Options package
+* Privately-funded team with more than enough runway to reach profitability
 * Office in the heart of the Gaslamp Quarter downtown
 * Free parking
 * Open, bright start-up office environment with whiteboard walls and large windows overlooking downtown
