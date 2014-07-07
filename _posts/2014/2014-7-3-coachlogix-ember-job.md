@@ -39,4 +39,4 @@ A few highlights of what we have to offer:
 
 ### Interested? We want to hear from you!
 
-Please contact [Derek Edwards](derek.edwards@coachlogix.com) for more information.
+Please contact [Derek Edwards](mailto:derek.edwards@coachlogix.com) for more information.
