@@ -100,6 +100,17 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
       </blockquote>
     </div>
   </li>
+  <li class="row">
+      <div class="span3 pagination-centered">
+        <img src="http://www.gravatar.com/avatar/70c1eefc52f496a3710661c2d87c2b19.png" class="avatar avatar-small"><br>
+        <a href="mailto:todd@thestartersacademy.com">Todd Bashor</a>
+      </div>
+      <div class="span9">
+        <blockquote>
+        Todd Bashor is a web development coach at <a href="http://thestartersacademy.com">The Starter's Academy</a>. He is a software industry veteran and loves teaching others about the power of web technology.  
+        </blockquote>
+      </div>
+    </li>
 </ul>
 
 
