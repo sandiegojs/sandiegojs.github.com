@@ -102,7 +102,7 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
   </li>
   <li class="row">
       <div class="span3 pagination-centered">
-        <img src="http://www.gravatar.com/avatar/70c1eefc52f496a3710661c2d87c2b19.png" class="avatar avatar-small"><br>
+        <img src="http://www.gravatar.com/avatar/70c1eefc52f496a3710661c2d87c2b19" class="avatar avatar-small"><br>
         <a href="mailto:todd@thestartersacademy.com">Todd Bashor</a>
       </div>
       <div class="span9">
