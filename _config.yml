@@ -78,6 +78,14 @@ authors:
     twitter: treyhunner
     google-plus: +TreyHunner
     github: treyhunner
+  tbashor:
+    name: Todd Bashor
+    display_name: Todd
+    gravatar: 70c1eefc52f496a3710661c2d87c2b19
+    web: http://thestartersacademy.com
+    email: todd@thestartersacademy.com
+    twitter: startersacademy
+    github: tbashor
 
 
 # The production_url is only used when full-domain names are needed
