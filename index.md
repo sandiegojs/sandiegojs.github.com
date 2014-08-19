@@ -35,8 +35,23 @@ layout: page
   </div>
 </div>
 
-<hr>
+<div class="row">
+  <div class="span6 offset3">
+  <h4>Every Fourth Tuesday</h4>
+  <p>
+  Every fourth Tuesday is our North County meetup where we get together at <a href="http://www.walmartlabs.com/">WalmartLabs</a>
+  in Carlsbad for a Javascript related talk and then head over to Pizza Port Bressi Ranch for continued socializing.<br><br>
+  Check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and check out the topic for this month.
+  </p>
+  </div>
+</div>
+<div class="row">
+  <div class="span6 offset3">
+    <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26731.443428855524!2d-117.27816849423921!3d33.12405485866794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc730becd4b1c3%3A0xca8b8266862afb53!2s1530+Faraday+Ave%2C+Carlsbad%2C+CA+92008!5e0!3m2!1sen!2sus!4v1408419953348" style="color:#0000FF;text-align:left">ignore</iframe>
+  </div>
+</div>
 
+<hr>
 <div class="row">
   <div class="span8">
     <h2>Recent Community Posts</h2>
