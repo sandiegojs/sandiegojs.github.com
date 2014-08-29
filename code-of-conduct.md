@@ -57,3 +57,5 @@ Participants asked to stop any unacceptable behavior are expected to comply imme
 
 If a participant engages in unacceptable behavior, San Diego JS organizers may take any action they deem appropriate, up to and including expulsion from all San Diego JS spaces and identification of the participant as a harasser to other San Diego JS members or the general public.
 
+
+Text adapted from <a href='http://geekfeminism.org/about/code-of-conduct/'>Geek Feminism</a> and <a href='https://www.djangoproject.com/conduct/'>the Django project</a>.
