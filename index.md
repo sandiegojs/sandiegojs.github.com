@@ -28,15 +28,30 @@ layout: page
 
 <div class="row">
   <div class="span6">
-   <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.903190390947!2d-117.16459374999997!3d32.715200099999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d954a8332298fb%3A0x6cc354fb420c0140!2sEvoNexus+Downtown+Incubator!5e0!3m2!1sen!2sus!4v1393870861070" style="color:#0000FF;text-align:left">ignore</iframe><br /><small><a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.903190390947!2d-117.16459374999997!3d32.715200099999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d954a8332298fb%3A0x6cc354fb420c0140!2sEvoNexus+Downtown+Incubator!5e0!3m2!1sen!2sus!4v1393870861070" style="color:#0000FF;text-align:left" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+   <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3356.903190390947!2d-117.16459374999997!3d32.715200099999954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80d954a8332298fb%3A0x6cc354fb420c0140!2sEvoNexus+Downtown+Incubator!5e0!3m2!1sen!2sus!4v1393870861070" style="color:#0000FF;text-align:left">ignore</iframe>
   </div>
   <div class="span6">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3355.905228814077!2d-117.1836484!3d32.741707100000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80deab2fc24b6337%3A0x2a9f5ed8e91c0508!2s2150+Washington+St!5e0!3m2!1sen!2sus!4v1401393363679" width="100%" height="250" frameborder="0" style="border:0"></iframe><br /><small><a href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3355.905228814077!2d-117.1836484!3d32.741707100000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80deab2fc24b6337%3A0x2a9f5ed8e91c0508!2s2150+Washington+St!5e0!3m2!1sen!2sus!4v1401393363679">View Larger Map</a></small>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3355.905228814077!2d-117.1836484!3d32.741707100000006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80deab2fc24b6337%3A0x2a9f5ed8e91c0508!2s2150+Washington+St!5e0!3m2!1sen!2sus!4v1401393363679" width="100%" height="250" frameborder="0" style="border:0"></iframe>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span6 offset3">
+  <h4>Every Fourth Tuesday</h4>
+  <p>
+  Every fourth Tuesday is our North County meetup where we get together at <a href="http://www.walmartlabs.com/">WalmartLabs</a>
+  in Carlsbad for a Javascript related talk and then head over to Pizza Port Bressi Ranch for continued socializing.<br><br>
+  Check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and check out the topic for this month.
+  </p>
+  </div>
+</div>
+<div class="row">
+  <div class="span6 offset3">
+    <iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26731.443428855524!2d-117.27816849423921!3d33.12405485866794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dc730becd4b1c3%3A0xca8b8266862afb53!2s1530+Faraday+Ave%2C+Carlsbad%2C+CA+92008!5e0!3m2!1sen!2sus!4v1408419953348" style="color:#0000FF;text-align:left">ignore</iframe>
   </div>
 </div>
 
 <hr>
-
 <div class="row">
   <div class="span8">
     <h2>Recent Community Posts</h2>
