@@ -26,19 +26,6 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
 <ul class="unstyled team-list">
   <li class="row">
     <div class="span3 pagination-centered">
-      <a href="mailto:jsoverson@gmail.com"><img src="http://www.gravatar.com/avatar/74be2e435d69a5827de7b5d33e7b343d" class="avatar avatar-small"></a><br>
-      <a href="mailto:jsoverson@gmail.com">Jarrod Overson</a>
-    </div>
-    <div class="span9">
-      <blockquote>
-      Jarrod Overson is an engineer at OneHealth and a prolific open source contributor and activist.
-      He created <a href="http://github.com/jsoverson/plato">Plato</a>
-      and contributes as part of the <a href="http://gruntjs.com">Grunt</a> and <a href="http://marionettejs.com/">MarionetteJS</a> teams.
-      </blockquote>
-    </div>
-  </li>
-  <li class="row">
-    <div class="span3 pagination-centered">
       <img src="http://www.gravatar.com/avatar/6bdfb79d08504f6f90ea2716fae9231c" class="avatar avatar-small"><br>
       <a href="mailto:jstrimpel@gmail.com">Jason Strimpel</a>
     </div>
@@ -68,6 +55,11 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
     <div class="span3 pagination-centered">
       <img src="{{ASSET_PATH}}/img/kevin_ball_avatar.jpeg" class="avatar avatar-small"><br>
       <a href="mailto:kmball11@gmail.com">Kevin Ball</a>
+    </div>
+    <div class="span9">
+      <blockquote>
+        Kevin Ball is an experienced web developer and entrepreneur.  He has have co-founded and acted as CTO for 2 companies, founded the San Diego Javascript Meetup, is a regular presenter at local tech meetups, a mentor at Startup Weekend events, and an active Toastmaster.  He blogs at <a href='http://kevinmball.com'>KevinMBall.com</a>
+      </blockquote>
     </div>
   </li>
   <li class="row">
