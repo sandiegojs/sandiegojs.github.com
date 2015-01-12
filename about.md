@@ -64,12 +64,6 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
   </li>
   <li class="row">
     <div class="span3 pagination-centered">
-      <img src="http://www.gravatar.com/avatar/6e2dbee8af46ad50428dc106b9a10096" class="avatar avatar-small"><br>
-      <a href="mailto:patrick@mokolabs.com">Patrick Crowley</a>
-    </div>
-  </li>
-  <li class="row">
-    <div class="span3 pagination-centered">
       <img src="http://www.gravatar.com/avatar/c1ab1a8a3169311b0062176c2814feff" class="avatar avatar-small"><br>
       <a href="mailto:h.a.brysiewicz@gmail.com">Heather Brysiewicz</a>
     </div>
@@ -78,6 +72,17 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
       Heather Brysiewicz is an Ember.js developer recently transplanted
       from Chicago. Along with her pomeranian, Squirt, she enjoys life at the
       beach and long nights at coffee shops.
+      </blockquote>
+    </div>
+  </li>
+  <li class="row">
+    <div class="span3 pagination-centered">
+      <img src="http://www.gravatar.com/avatar/9b8ef36043e38d1182acd8f3e1e1067f" class="avatar avatar-small"><br>
+      <a href="http://smathson.github.io/about">Scott Mathson</a>
+    </div>
+    <div class="span9">
+      <blockquote>
+      Scott Mathson is an agile web developer currently building applications with AngularJS. He lives in Carlsbad with his wife and son and enjoys brewing and drinking beer, often simultaneously. Scott helps run the North County meetup.
       </blockquote>
     </div>
   </li>
@@ -93,16 +98,16 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
     </div>
   </li>
   <li class="row">
-      <div class="span3 pagination-centered">
-        <img src="http://www.gravatar.com/avatar/70c1eefc52f496a3710661c2d87c2b19" class="avatar avatar-small"><br>
-        <a href="mailto:todd@thestartersacademy.com">Todd Bashor</a>
-      </div>
-      <div class="span9">
-        <blockquote>
-        Todd Bashor is a web development coach at <a href="http://thestartersacademy.com">The Starter's Academy</a>. He is a software industry veteran and loves teaching others about the power of web technology.  
-        </blockquote>
-      </div>
-    </li>
+    <div class="span3 pagination-centered">
+      <img src="http://www.gravatar.com/avatar/70c1eefc52f496a3710661c2d87c2b19" class="avatar avatar-small"><br>
+      <a href="mailto:todd@thestartersacademy.com">Todd Bashor</a>
+    </div>
+    <div class="span9">
+      <blockquote>
+      Todd Bashor is a web development coach at <a href="http://thestartersacademy.com">The Starter's Academy</a>. He is a software industry veteran and loves teaching others about the power of web technology.  
+      </blockquote>
+    </div>
+  </li>
 </ul>
 
 
