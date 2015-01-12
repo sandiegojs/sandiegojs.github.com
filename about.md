@@ -6,18 +6,17 @@ title: About sandiego.js
 
 ## About Us
 
-We're a 500+ member strong community full of some amazing people who love San Diego.
+We're a 1000+ member strong community full of some amazing people who love San Diego.
 
-Sandiego.js was started in 2011 by Patrick Crowley and Kevin Ball and has grown at a
-fast pace since its inception. [3rdSpace][] has been a gracious host for the entire time and
-we've had secondary meetups at OneHealth in Solana Beach and Qualcomm offices in Sorrento Valley.
+Sandiego.js was started in 2011 by Patrick Crowley and Kevin Ball and has grown at a fast pace since its inception.
+[EvoNexus](http://www.commnexus.org/evonexus/), [WalmartLabs](http://www.walmartlabs.com/) and [FanPics](https://www.fanpics.com/) are our gracious hosts.
 
 If anyone is interested in setting up new topic-focused meetups, please let us know via a [github issue][issues], email,
 or by poking us on the shoulder at any meetup.
 
 ### Keep Connected
 
-For general questions or conversation, get in touch with us through our [Google Group](https://groups.google.com/forum/#!forum/sandiegojs).
+For general questions or conversation, get in touch with us through our [Google Group](https://groups.google.com/forum/#!forum/sandiegojs) or send an email to [the organizers](mailto:sandiegojs-organizers@googlegroups.com).
 
 We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#sandiegojs</a> channel on <a href="https://webchat.freenode.net/">FreeNode</a>.
 
