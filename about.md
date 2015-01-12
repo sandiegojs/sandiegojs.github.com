@@ -58,7 +58,7 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
     </div>
     <div class="span9">
       <blockquote>
-        Kevin Ball is an experienced web developer and entrepreneur.  He has have co-founded and acted as CTO for 2 companies, founded the San Diego Javascript Meetup, is a regular presenter at local tech meetups, a mentor at Startup Weekend events, and an active Toastmaster.  He blogs at <a href='http://kevinmball.com'>KevinMBall.com</a>
+        Kevin Ball is an experienced web developer and entrepreneur.  He has co-founded and acted as CTO for 2 companies, founded the San Diego Javascript Meetup, is a regular presenter at local tech meetups, a mentor at Startup Weekend events, and an active Toastmaster.  He blogs at <a href='http://kevinmball.com'>KevinMBall.com</a>
       </blockquote>
     </div>
   </li>
