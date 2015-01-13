@@ -6,37 +6,23 @@ title: About sandiego.js
 
 ## About Us
 
-We're a 500+ member strong community full of some amazing people who love San Diego.
+We're a 1000+ member strong community full of some amazing people who love San Diego.
 
-Sandiego.js was started in 2011 by Patrick Crowley and Kevin Ball and has grown at a
-fast pace since its inception. [3rdSpace][] has been a gracious host for the entire time and
-we've had secondary meetups at OneHealth in Solana Beach and Qualcomm offices in Sorrento Valley.
+Sandiego.js was started in 2011 by Patrick Crowley and Kevin Ball and has grown at a fast pace since its inception.
+[EvoNexus](http://www.commnexus.org/evonexus/), [WalmartLabs](http://www.walmartlabs.com/) and [FanPics](https://www.fanpics.com/) are our gracious hosts.
 
 If anyone is interested in setting up new topic-focused meetups, please let us know via a [github issue][issues], email,
 or by poking us on the shoulder at any meetup.
 
 ### Keep Connected
 
-For general questions or conversation, get in touch with us through our [Google Group](https://groups.google.com/forum/#!forum/sandiegojs).
+For general questions or conversation, get in touch with us through our [Google Group](https://groups.google.com/forum/#!forum/sandiegojs) or send an email to [the organizers](mailto:sandiegojs-organizers@googlegroups.com).
 
 We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#sandiegojs</a> channel on <a href="https://webchat.freenode.net/">FreeNode</a>.
 
 ## The team
 
 <ul class="unstyled team-list">
-  <li class="row">
-    <div class="span3 pagination-centered">
-      <a href="mailto:jsoverson@gmail.com"><img src="http://www.gravatar.com/avatar/74be2e435d69a5827de7b5d33e7b343d" class="avatar avatar-small"></a><br>
-      <a href="mailto:jsoverson@gmail.com">Jarrod Overson</a>
-    </div>
-    <div class="span9">
-      <blockquote>
-      Jarrod Overson is an engineer at OneHealth and a prolific open source contributor and activist.
-      He created <a href="http://github.com/jsoverson/plato">Plato</a>
-      and contributes as part of the <a href="http://gruntjs.com">Grunt</a> and <a href="http://marionettejs.com/">MarionetteJS</a> teams.
-      </blockquote>
-    </div>
-  </li>
   <li class="row">
     <div class="span3 pagination-centered">
       <img src="http://www.gravatar.com/avatar/6bdfb79d08504f6f90ea2716fae9231c" class="avatar avatar-small"><br>
@@ -69,11 +55,10 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
       <img src="{{ASSET_PATH}}/img/kevin_ball_avatar.jpeg" class="avatar avatar-small"><br>
       <a href="mailto:kmball11@gmail.com">Kevin Ball</a>
     </div>
-  </li>
-  <li class="row">
-    <div class="span3 pagination-centered">
-      <img src="http://www.gravatar.com/avatar/6e2dbee8af46ad50428dc106b9a10096" class="avatar avatar-small"><br>
-      <a href="mailto:patrick@mokolabs.com">Patrick Crowley</a>
+    <div class="span9">
+      <blockquote>
+        Kevin Ball is an experienced web developer and entrepreneur.  He has co-founded and acted as CTO for 2 companies, founded the San Diego Javascript Meetup, is a regular presenter at local tech meetups, a mentor at Startup Weekend events, and an active Toastmaster.  He blogs at <a href='http://kevinmball.com'>KevinMBall.com</a>
+      </blockquote>
     </div>
   </li>
   <li class="row">
@@ -91,6 +76,17 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
   </li>
   <li class="row">
     <div class="span3 pagination-centered">
+      <img src="http://www.gravatar.com/avatar/9b8ef36043e38d1182acd8f3e1e1067f" class="avatar avatar-small"><br>
+      <a href="http://smathson.github.io/about">Scott Mathson</a>
+    </div>
+    <div class="span9">
+      <blockquote>
+      Scott Mathson is an agile web developer currently building applications with AngularJS. He lives in Carlsbad with his wife and son and enjoys brewing and drinking beer, often simultaneously. Scott helps run the North County meetup.
+      </blockquote>
+    </div>
+  </li>
+  <li class="row">
+    <div class="span3 pagination-centered">
       <img src="http://www.gravatar.com/avatar/945d10168a7817c64276c164a57fa8de" class="avatar avatar-small"><br>
       <a href="http://treyhunner.com/about/">Trey Hunner</a>
     </div>
@@ -101,16 +97,16 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
     </div>
   </li>
   <li class="row">
-      <div class="span3 pagination-centered">
-        <img src="http://www.gravatar.com/avatar/70c1eefc52f496a3710661c2d87c2b19" class="avatar avatar-small"><br>
-        <a href="mailto:todd@thestartersacademy.com">Todd Bashor</a>
-      </div>
-      <div class="span9">
-        <blockquote>
-        Todd Bashor is a web development coach at <a href="http://thestartersacademy.com">The Starter's Academy</a>. He is a software industry veteran and loves teaching others about the power of web technology.  
-        </blockquote>
-      </div>
-    </li>
+    <div class="span3 pagination-centered">
+      <img src="http://www.gravatar.com/avatar/70c1eefc52f496a3710661c2d87c2b19" class="avatar avatar-small"><br>
+      <a href="mailto:todd@thestartersacademy.com">Todd Bashor</a>
+    </div>
+    <div class="span9">
+      <blockquote>
+      Todd Bashor is a web development coach at <a href="http://thestartersacademy.com">The Starter's Academy</a>. He is a software industry veteran and loves teaching others about the power of web technology.  
+      </blockquote>
+    </div>
+  </li>
 </ul>
 
 

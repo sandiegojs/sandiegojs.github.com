@@ -19,7 +19,7 @@ title: Using Github to contribute to sandiego.js
 ## How to offer a presentation
 
 You can either perform the same steps as above, or you can contact
-[Kevin][] or [Jarrod][] directly.
+[the organizers](mailto:sandiegojs-organizers@googlegroups.com) directly.
 
 ## How to submit a blog
 
@@ -40,10 +40,5 @@ If you are new to Jekyll, please skim the [Jekyll Docs](https://github.com/mojom
 "Whoa whoa whoa, what?" - If that's what is running through your head, it looks like you need to submit
  a presentation request on git and github or come to a hacknight!
 
-
-[Kevin]: mailto:kmball11@gmail.com
-[Jarrod]: mailto:jsoverson@gmail.com
-[meetup]: http://www.meetup.com/sandiegojs/ "Meetup.com page"
 [sandiegojs.github.com]: https://github.com/sandiegojs/sandiegojs.github.com "Sandiego.js Github site"
 [issues]: https://github.com/sandiegojs/sandiegojs.github.com/issues "Sandiego.js issue tracker"
-[3rdspace]: http://3rdspace.co/ "3rdSpace"
