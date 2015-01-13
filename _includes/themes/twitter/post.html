@@ -61,10 +61,17 @@
     <div class="date"><span>{{ page.date | date:"%a, %b %d" }}</span></div>
 
   {% unless page.tags == empty %}
-    <h4>Tags</h4>
+    <h4><a href='/tags.html'>Tags</a></h4>
     <ul class="tag_box">
     {% assign tags_list = page.tags %}
     {% include JB/tags_list %}
+    </ul>
+  {% endunless %}  
+  {% unless page.categories == empty %}
+    <h4><a href='/categories.html'>Categories</a></h4>
+    <ul class="tag_box">
+    {% assign categories_list = page.categories %}
+    {% include JB/categories_list %}
     </ul>
   {% endunless %}  
   </div>
