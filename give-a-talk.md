@@ -1,8 +1,25 @@
 ---
 layout: page
-title: Using Github to contribute to sandiego.js
+title: Give a Lightning Talk
 ---
 {% include JB/setup %}
+
+## Request a presentation topic
+
+1. Go to the <a href="https://github.com/sandiegojs/sandiegojs.github.com/issues">sandiegojs.github.com issue tracker</a>
+2. Click on the "New Issue" button
+  > <img src="{{ASSET_PATH}}/img/gh-new-issue.png" class="thumbnail">
+3. Fill out your request and tag it with the "Presentation" label
+  > <img src="{{ASSET_PATH}}/img/gh-submit-issue.png" class="thumbnail">
+4. Submit!
+
+  Anyone subscribed to the repository will be notified and discussion around the idea can
+  occur within github.
+
+## How to offer a presentation
+
+You can either perform the same steps as above, or you can contact
+[the organizers](mailto:sandiegojs-organizers@googlegroups.com) directly.
 
 ## How to submit a blog
 
