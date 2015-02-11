@@ -4,6 +4,20 @@ title: Give a Lightning Talk
 ---
 {% include JB/setup %}
 
+### We want you to give a talk!
+
+Have you been learning JavaScript and want to spend a couple minutes sharing something you learned?
+
+Did you find a library or discover a JS feature you'd like to share?
+
+Have an interesting method for learning or teaching JavaScript?
+
+Want to share something you made?
+
+Want to show off a niche feature of one of your favorite libraries?
+
+If you have something JavaScript-related to share with your peers that you could say/show in less than 5 minutes, **we want to hear you give a talk**!
+
 ## Request a presentation topic
 
 1. Go to the <a href="https://github.com/sandiegojs/sandiegojs.github.com/issues">sandiegojs.github.com issue tracker</a>
