@@ -109,6 +109,8 @@ layout: page
   </div>
 </div>
 
+<a href="https://plus.google.com/111950636722130374880" rel="publisher"></a>
+
 [meetup]: http://www.meetup.com/sandiegojs/ "Meetup.com page"
 [github]: https://github.com/sandiegojs/sandiegojs.github.com "Sandiego.js Github site"
 [issues]: https://github.com/sandiegojs/sandiegojs.github.com/issues "Sandiego.js issue tracker"
