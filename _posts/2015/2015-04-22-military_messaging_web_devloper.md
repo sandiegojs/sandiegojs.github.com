@@ -4,8 +4,6 @@ category : jobs
 tags : [job]
 title : Military Message Standards Web Implementation
 ---
-This is an example of a simple job offering with a few suggested sections. You can [download the template](/examples/2013-12-10-job-template.md) (written in [Markdown](http://daringfireball.net/projects/markdown/)) and simply replace the example text with your own information or change it up to suit your needs. When you're done, you can post it to the site ([How to submit a blog](/github.html)) or email it to [Jeff Brewer](mailto:jeffery.brewer@gmail.com). 
-
 ###Marine Corps Tactical Systems Support Activity (MCTSSA)
 This is a support unit for US Marine Corps Systems Command acquisitons.  MCTSSA provides Marine Corps representation on military standards boards as well as US positions on NATO and other international standards boards.
 
