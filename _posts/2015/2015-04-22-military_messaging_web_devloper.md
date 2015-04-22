@@ -40,4 +40,4 @@ This position will support development of reference implementation of Military M
 ###More Information
 Team members will have flexibility on hours and location but periodic in-person meetings at MCTSSA will be required, and travel costs will not be accomodated.
 
-Contact [Major James D. Neushul, USMC](mailto:james.neushul@usmc.mil) for more information.
+Contact [Major James D. Neushul, USMC](mailto:james.neushul@usmc.mil) _ 760-576-5015 for more information.
