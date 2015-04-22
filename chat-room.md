@@ -9,13 +9,13 @@ Keep in touch outside of the monthly meetups. Join one of the chat rooms to ask 
 
 ## Slack
 
-Signup for the [SDJS Slack Channel](https://sdjs.slack.com)
+Request an invite for the [SDJS Slack Channel](http://sandiegojs.herokuapp.com) or [login](https://sdjs.slack.com/).
 
 ---
 
 ## IRC
 
-There's also a #sandiegojs IRC channel on Freenode. This page contains instructions for signing onto the IRC channel.
+There is also a #sandiegojs IRC channel on Freenode. This page contains instructions for signing onto the IRC channel.
 
 
 ### IRC Web Client
