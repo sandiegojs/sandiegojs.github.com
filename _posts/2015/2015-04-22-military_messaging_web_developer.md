@@ -12,7 +12,7 @@ This is a support unit for US Marine Corps Systems Command acquisitons.  MCTSSA 
 * Location: Camp Pendleton, CA
 
 ###Position Description
-This position will support development of reference implementation of Military Message Standards using web technologies.  All Message format are defined using XML Schemas.  The impementation will conform to National Information Exchange Model [NIEM](https://www.niem.gov/Pages/default.asp) methodology.  Supervisors have over 20 years experience with MIL STD messaging, 10+ years experience with XML technologies, and 5+ years in web and javascript technologies.
+This position will support development of reference implementation of Military Message Standards using web technologies.  All Message format are defined using XML Schemas.  The impementation will conform to National Information Exchange Model [NIEM](https://www.niem.gov) methodology.  Supervisors have over 20 years experience with MIL STD messaging, 10+ years experience with XML technologies, and 5+ years in web and javascript technologies.
 
 * Specific expertise in HTML5, Angular JS and JS Unit, JSON, JS unit testing.
 * Expertise in XML Schema and XSLT
