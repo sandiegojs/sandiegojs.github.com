@@ -26,6 +26,7 @@ sponsors, biostatisticians, clinical staff, as well as other software developers
 to design and develop web-based data management systems to support large, international,
 multi-site clinical studies.
 
+[Apply Here] (http://jobs.ucsd.edu/bulletin/job.aspx?cat=search&sortby=rank&jobnum_in=77396&search=software%20developer)
 
 ###Ideal Candidate
 * A Bachelor's Degree in Computer Science or related field or 5 years work experience.
