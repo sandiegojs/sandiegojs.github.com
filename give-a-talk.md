@@ -37,10 +37,14 @@ __Don'ts:__
 
 _Want to chat about your talk while you prepare it?  Join the [chat room][2]._
 
-
 ### Suggest a presentation topic
 
 Have an idea you'd like to hear someone give a talk about?  We have a wiki page with [talk ideas][1] you can clone and add your ideas to it! Alternatively you can post suggestions to any of the [chat rooms][2].
+
+### Extended Talks
+
+If you have a longer talk we will happily accept those as well.
+
 
 [1]: https://github.com/sandiegojs/sandiegojs.github.com/wiki/Talk-Ideas
 [2]: /chat-room.html
