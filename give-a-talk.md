@@ -18,7 +18,7 @@ __*If you are unsure what to talk about do not hesitate to jump onto one of the 
 
 #### Submitting your talk
 
-Once you are ready to submit a talk please email your talk subject to the [SDJS organizers](mailto:sandiegojs-organizers@googlegroups.com).
+Once you are ready to submit a talk fill out our [talk submission form](http://goo.gl/forms/W3w8ovv1DT)
 
 #### Preparing for your talk
 
@@ -41,9 +41,9 @@ _Want to chat about your talk while you prepare it?  Join the [chat room][2]._
 
 Have an idea you'd like to hear someone give a talk about?  We have a wiki page with [talk ideas][1] you can clone and add your ideas to it! Alternatively you can post suggestions to any of the [chat rooms][2].
 
-### Extended Talks
+### Extended talks
 
-If you have a longer talk we will happily accept those as well.
+We do accept extended talks but prefer presentors to have done a lightning talk before. If your unsure please [email us](mailto:sandiegojs-organizers@googlegroups.com) to discuss your talk.
 
 
 [1]: https://github.com/sandiegojs/sandiegojs.github.com/wiki/Talk-Ideas
