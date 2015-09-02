@@ -1,40 +1,50 @@
 ---
 layout: page
-title: Give a Lightning Talk
+title: We want you to give a talk!
 ---
 {% include JB/setup %}
 
-### We want you to give a talk!
+If you have something JavaScript related to share with your peers that you could say/show in less than 5 minutes, **we want to hear you give a talk**!
 
-Have you been learning JavaScript and want to spend a couple minutes sharing something you learned?
+Have you been learning JavaScript and want to spend a couple minutes sharing something you learned? Did you find a library or discover a JS feature you'd like to share? Have an interesting method for learning or teaching JavaScript? Want to share something you made? Want to show off a niche feature of one of your favorite libraries?
 
-Did you find a library or discover a JS feature you'd like to share?
+We also have a wiki page with [talk ideas][1] that you can use for inspiration.
 
-Have an interesting method for learning or teaching JavaScript?
+---
 
-Want to share something you made?
+__*If you are unsure what to talk about do not hesitate to jump onto one of the [chat channels][2] and ask about presenting.*__
 
-Want to show off a niche feature of one of your favorite libraries?
+---
 
-If you have something JavaScript-related to share with your peers that you could say/show in less than 5 minutes, **we want to hear you give a talk**!
+#### Submitting your talk
 
-### How to give a talk
+Once you are ready to submit a talk fill out our [talk submission form](http://goo.gl/forms/W3w8ovv1DT)
 
-Are you thinking of giving a short lightning talk?
+#### Preparing for your talk
 
-Comment on an event page or, better yet, contact
-[the organizers](mailto:sandiegojs-organizers@googlegroups.com) directly.
+You will be presenting on a `800x600px` projector so make sure to tailor your slides to that dimension. We try to livestream every presentation so practice slow and clear speaking.
 
-Don't know what you want to talk about yet?
+__Do's:__
 
-We have a wiki page with [talk ideas][] that you can use for inspiration.
+- Use a large legible font
+- Use white slides with black text
+- Practice your talk at home and time it
 
-Want to chat about your talk while you prepare it?  Join [the chat room](/chat-room.html)!
+__Don'ts:__
+
+- Use more than a few slides. *We'd recommend 6*
+- Live code/demo for your first talk. It's really hard for a lighning talk.
+
+_Want to chat about your talk while you prepare it?  Join the [chat room][2]._
 
 ### Suggest a presentation topic
 
-Have an idea you'd like to hear someone give a talk about?  We have a wiki page with [talk ideas][].  Go add your ideas to it!
+Have an idea you'd like to hear someone give a talk about?  We have a wiki page with [talk ideas][1] you can clone and add your ideas to it! Alternatively you can post suggestions to any of the [chat rooms][2].
 
-You can also comment on future meetup events and note that you'd like to hear a lightning talk on a particular topic.
+### Extended talks
 
-[talk ideas]: https://github.com/sandiegojs/sandiegojs.github.com/wiki/Talk-Ideas
+We do accept extended talks but prefer presentors to have done a lightning talk before. If your unsure please [email us](mailto:sandiegojs-organizers@googlegroups.com) to discuss your talk.
+
+
+[1]: https://github.com/sandiegojs/sandiegojs.github.com/wiki/Talk-Ideas
+[2]: /chat-room.html
