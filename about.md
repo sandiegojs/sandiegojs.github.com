@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About sandiego.js
+description: San Diego JS history, leadership and contact information.
 ---
 {% include JB/setup %}
 

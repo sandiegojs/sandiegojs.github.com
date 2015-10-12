@@ -1,5 +1,7 @@
 ---
 layout: page
+title: San Diego JavaScript Users Group
+description: San Diego's JavaScript users group featuring events, meet-ups, education, support and job postings.
 ---
 {% include JB/setup %}
 
@@ -45,7 +47,7 @@ layout: page
   </div>
 </div>
 
-<hr>
+<div><hr></div>
 
 <div class="row">
   <div class="span8">
@@ -83,7 +85,7 @@ layout: page
   </div>
 </div>
 
-<hr>
+<div><hr></div>
 
 ### Sponsored and supported by
 

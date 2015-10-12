@@ -2,6 +2,7 @@
 layout: page
 title: Chat Room
 group: navigation
+description: Information on online chat rooms for San Diego JS members. 
 ---
 {% include JB/setup %}
 

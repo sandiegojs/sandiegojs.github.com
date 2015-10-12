@@ -1,6 +1,7 @@
 ---
 layout: page
 title: We want you to give a talk!
+description: Information and support to encourage members to present at user group meetings. 
 ---
 {% include JB/setup %}
 
