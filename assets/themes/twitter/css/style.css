@@ -175,6 +175,12 @@ footer {
   border: 4px solid hsl(200, 100%, 40%);
 }
 
+.page-divider {
+  height: 1px;
+  margin: 50px 0;
+  background-color: #EEEEEE;
+}
+
 /* tag_box ======================================================== */
 
 .tag_box {

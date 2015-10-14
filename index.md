@@ -47,7 +47,7 @@ description: San Diego's JavaScript users group featuring events, meet-ups, educ
   </div>
 </div>
 
-<div><hr></div>
+<div class="page-divider"></div>
 
 <div class="row">
   <div class="span8">
@@ -85,7 +85,7 @@ description: San Diego's JavaScript users group featuring events, meet-ups, educ
   </div>
 </div>
 
-<div><hr></div>
+<div class="page-divider"></div>
 
 ### Sponsored and supported by
 
