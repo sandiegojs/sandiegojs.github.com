@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta name="google-site-verification" content="o41yyvUfcQI888o6nJAU6Y77QKjQqNOUtfei5ZYTRVA" />
+  <meta name="google-site-verification" content="o41yyvUfcQI888o6nJAU6Y77QKjQqNOUtfei5ZYTRVA" />
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
   {% if page.description %}
@@ -36,55 +36,58 @@
 
 <body>
 
-<header class="inverse">
-  <div class="container">
-    <div class="row">
-      <h1 class="span12"><a href="/" class="brand">sandiego<span class="brand-ext">.js</span></a></h1>
-      <h3 class="span8">{{ site.tagline  }}</h3>
-      <div class="pull-right b-socialIcons">
-        <a href="https://twitter.com/sandiegojs"><i class="fa fa-twitter"></i></a>
-        <a href="https://sdjs.slack.com"><i class="fa fa-slack"></i></a>
-        <a href="https://plus.google.com/communities/115498247225378951183"><i class="fa fa-google-plus"></i></a>
-        <a href="https://github.com/sandiegojs/"><i class="fa fa-github"></i></a>
-        <a href="http://sandiegojs.org/atom.xml"><i class="fa fa-rss"></i></a>
+  <header class="inverse">
+    <div id="skiptocontent">
+      <a href="#maincontent">skip to main content</a>
+    </div>
+    <div class="container">
+      <div class="row">
+        <h1 class="span12"><a href="/" class="brand">sandiego<span class="brand-ext">.js</span></a></h1>
+        <h3 class="span8">{{ site.tagline  }}</h3>
+        <div class="pull-right b-socialIcons">
+          <a href="https://twitter.com/sandiegojs"><i class="fa fa-twitter"></i></a>
+          <a href="https://sdjs.slack.com"><i class="fa fa-slack"></i></a>
+          <a href="https://plus.google.com/communities/115498247225378951183"><i class="fa fa-google-plus"></i></a>
+          <a href="https://github.com/sandiegojs/"><i class="fa fa-github"></i></a>
+          <a href="http://sandiegojs.org/atom.xml"><i class="fa fa-rss"></i></a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container">
+        <ul class="nav">
+          <li><a href="/about.html">About Us</a></li>
+          <li><a href="/give-a-talk.html">Give a Talk</a></li>
+          <li><a href="/github.html">How to contribute</a></li>
+          <li><a href="http://meetup.com/sandiegojs">Meetup Group</a></li>
+          <li><a href="/jobs.html">Jobs</a></li>
+          <li><a href="/code-of-conduct.html">Code Of Conduct</a></li>
+          {% assign pages_list = site.pages %}
+          {% assign group = 'navigation' %}
+          {% include JB/pages_list %}
+        </ul>
       </div>
     </div>
   </div>
-</header>
+  
+  {{ content }}
 
-<div class="navbar">
-  <div class="navbar-inner">
+  <!-- /container -->
+
+  <footer>
     <div class="container">
-      <ul class="nav">
-        <li><a href="/about.html">About Us</a></li>
-        <li><a href="/give-a-talk.html">Give a Talk</a></li>
-        <li><a href="/github.html">How to contribute</a></li>
-        <li><a href="http://meetup.com/sandiegojs">Meetup Group</a></li>
-        <li><a href="/jobs.html">Jobs</a></li>
-        <li><a href="/code-of-conduct.html">Code Of Conduct</a></li>
-        {% assign pages_list = site.pages %}
-        {% assign group = 'navigation' %}
-        {% include JB/pages_list %}
-      </ul>
+      <p>&copy; {{ site.author.name }} 2011 - {{ site.time | date: '%Y' }}</p>
+      <p>
+        With help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+        and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+      </p>
     </div>
-  </div>
-</div>
-
-{{ content }}
-
-<!-- /container -->
-
-<footer>
-  <div class="container">
-    <p>&copy; {{ site.author.name }} 2011 - {{ site.time | date: '%Y' }}</p>
-    <p>
-      With help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-      and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-    </p>
-  </div>
-</footer>
+  </footer>
 
 
-{% include JB/analytics %}
+  {% include JB/analytics %}
 </body>
 </html>

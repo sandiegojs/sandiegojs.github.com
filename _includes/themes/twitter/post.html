@@ -2,80 +2,80 @@
 {% assign author = site.authors[page.author] %}
 
 <div class="container">
-  <div class="content">
+  <div class="content" id="maincontent">
 
-<div class="page-header">
-  <h1>{{ page.title }}{% if page.tagline %}<br><small>{{ page.tagline }}</small>{% endif %}</h1>
-</div>
-
-<div class="row">
-  <div class="span8">
-    {{ content }}
-    <hr>
-    <div class="pagination">
-      <ul>
-      {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
-      {% else %}
-        <li class="prev disabled"><a>&larr; Previous</a></li>
-      {% endif %}
-        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-      {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
-      {% else %}
-        <li class="next disabled"><a>Next &rarr;</a>
-      {% endif %}
-      </ul>
-    </div>
-    <hr>
-    {% include JB/comments %}
-  </div>
-  
-  <div class="span4">
-
-    <h4>Author</h4>
-    <div class="byline">
-      {% if author %}
-      <p>
-        <a href="{{author.web}}">{{ author.name }}</a>
-        {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}"><i class="icon icon-twitter"></i></a>{% endif %}
-        {% if author.google-plus %}<a href="https://plus.google.com/{{ author.google-plus }}"><i class="icon icon-google-plus"></i></a>{% endif %}
-        {% if author.github %}<a href="http://github.com/{{ author.github }}"><i class="icon icon-github-alt"></i></a>{% endif %}
-
-      </p>
-      <p>
-        <a href="{{author.web}}"><img src="https://secure.gravatar.com/avatar/{{ author.gravatar }}?s=80" class="byline-image avatar avatar-small"></a>
-      </p>
-      {% else %}
-      <p>
-        <a href="http://sandiegojs.org/">sandiego.js</a>
-      </p>
-      <p>
-        <a href="http://sandiegojs.org/"><img src="{{ASSET_PATH}}/img/sdjs-358x358.png" class="byline-image avatar avatar-small"></a>
-      </p>
-      {% endif %}
+    <div class="page-header">
+      <h1>{{ page.title }}{% if page.tagline %}<br><small>{{ page.tagline }}</small>{% endif %}</h1>
     </div>
 
+    <div class="row">
+      <div class="span8">
+        {{ content }}
+        <hr>
+        <div class="pagination">
+          <ul>
+          {% if page.previous %}
+            <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+          {% else %}
+            <li class="prev disabled"><a>&larr; Previous</a></li>
+          {% endif %}
+            <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+          {% if page.next %}
+            <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+          {% else %}
+            <li class="next disabled"><a>Next &rarr;</a>
+          {% endif %}
+          </ul>
+        </div>
+        <hr>
+        {% include JB/comments %}
+      </div>
+      
+      <div class="span4">
 
-    <h4>Published</h4>
-    <div class="date"><span>{{ page.date | date:"%a, %b %d" }}</span></div>
+        <h4>Author</h4>
+        <div class="byline">
+          {% if author %}
+          <p>
+            <a href="{{author.web}}">{{ author.name }}</a>
+            {% if author.twitter %}<a href="http://twitter.com/{{ author.twitter }}"><i class="icon icon-twitter"></i></a>{% endif %}
+            {% if author.google-plus %}<a href="https://plus.google.com/{{ author.google-plus }}"><i class="icon icon-google-plus"></i></a>{% endif %}
+            {% if author.github %}<a href="http://github.com/{{ author.github }}"><i class="icon icon-github-alt"></i></a>{% endif %}
 
-  {% unless page.tags == empty %}
-    <h4><a href='/tags.html'>Tags</a></h4>
-    <ul class="tag_box">
-    {% assign tags_list = page.tags %}
-    {% include JB/tags_list %}
-    </ul>
-  {% endunless %}  
-  {% unless page.categories == empty %}
-    <h4><a href='/categories.html'>Categories</a></h4>
-    <ul class="tag_box">
-    {% assign categories_list = page.categories %}
-    {% include JB/categories_list %}
-    </ul>
-  {% endunless %}  
-  </div>
-</div>
+          </p>
+          <p>
+            <a href="{{author.web}}"><img src="https://secure.gravatar.com/avatar/{{ author.gravatar }}?s=80" class="byline-image avatar avatar-small"></a>
+          </p>
+          {% else %}
+          <p>
+            <a href="http://sandiegojs.org/">sandiego.js</a>
+          </p>
+          <p>
+            <a href="http://sandiegojs.org/"><img src="{{ASSET_PATH}}/img/sdjs-358x358.png" class="byline-image avatar avatar-small"></a>
+          </p>
+          {% endif %}
+        </div>
+
+
+        <h4>Published</h4>
+        <div class="date"><span>{{ page.date | date:"%a, %b %d" }}</span></div>
+
+      {% unless page.tags == empty %}
+        <h4><a href='/tags.html'>Tags</a></h4>
+        <ul class="tag_box">
+        {% assign tags_list = page.tags %}
+        {% include JB/tags_list %}
+        </ul>
+      {% endunless %}  
+      {% unless page.categories == empty %}
+        <h4><a href='/categories.html'>Categories</a></h4>
+        <ul class="tag_box">
+        {% assign categories_list = page.categories %}
+        {% include JB/categories_list %}
+        </ul>
+      {% endunless %}  
+      </div>
+    </div>
 
   </div>
 </div>
