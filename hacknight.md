@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hack Night Details
+description: Monthly hands-on meeting where members collaborate, interact and relax. 
 ---
 
 {% include JB/setup %}
