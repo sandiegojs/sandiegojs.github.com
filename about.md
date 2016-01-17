@@ -108,6 +108,17 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
       </blockquote>
     </div>
   </li>
+    <li class="row">
+      <div class="span3 pagination-centered">
+        <img src="http://www.gravatar.com/avatar/2dab28a09a825fe18acfa9b5457200d4" class="avatar avatar-small"><br>
+        <a href="mailto:michael.e.roberts.jr@gmail.com">Michael Roberts Jr</a>
+      </div>
+      <div class="span9">
+        <blockquote>
+        Michael Roberts Jr is a seasoned full-stack JavaScript developer, Sr. Software Engineer at <a href="http://zeeto.io">Zeeto</a> and Founder of <a href="http://www.sandiegocodeschool.io">San Diego Code School</a>.  
+        </blockquote>
+      </div>
+    </li>
 </ul>
 
 
