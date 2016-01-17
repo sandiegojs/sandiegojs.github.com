@@ -19,7 +19,7 @@ We have a lot of great changes in store for this year and always welcome feedbac
 * We built a [solid group of organizers](http://sandiegojs.org/about.html) that are dedicated to the community and nurturing the technology scene in San Diego
 * We said goodbye to one of the original organizers of our community.
 * We introduced lightning talks and increased attendance at our events.
-* We moved from a long-time venue host to our new venue host [Zeeto Media](//zeeto.io).
+* We moved from a long-time venue host to our new venue host [Zeeto](//zeeto.io).
 * We currated over [50 videos on our Youtube channel!](https://www.youtube.com/user/SanDiegoJS)
 * We added a [Code of Conduct](http://sandiegojs.org/code-of-conduct.html).
 * We made great connections with code schools and companies in San Diego
@@ -42,7 +42,7 @@ As an ambitious group of organizers (and members) we have very ambitious goals f
 
 * We want to get more SDJS swag in the hands of our members! We want it too :P
 
-* We are going to continue connecting with companies and organizations in San Diego that want to be more involved or sponsor. Right now we don't offer very many sponsorship opportunities outside of venue hosting and food/drink for events, but we are compiling a prospective for any interested companies or organization.
+* We are going to continue connecting with companies and organizations in San Diego that want to be more involved or sponsor. Right now we don't offer very many sponsorship opportunities outside of venue hosting and food/drink for events, but we are compiling a prospective for any interested companies or organizations.
 
 * We've better outlined what each of the organizer's roles are. The hope is that by each of us having a focus, we can be a better catalyst for members in the certain areas.
 
