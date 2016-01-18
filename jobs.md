@@ -2,6 +2,7 @@
 layout: page
 title: The Jobs Page
 tagline: Where Opportunity and Talent Intersect
+description: JavaScript job opportunities and resumes posted by our members.
 ---
 {% include JB/setup %}
 

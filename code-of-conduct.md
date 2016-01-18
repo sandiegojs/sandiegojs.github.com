@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Code of Conduct
+description: San Diego JS standards of behavior to ensure a welcoming and inclusive experience for everyone. 
 ---
 {% include JB/setup %}
 

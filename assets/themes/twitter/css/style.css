@@ -200,6 +200,12 @@ footer {
     transition: top .1s ease-in, background .5s linear;
 }
 
+.page-divider {
+  height: 1px;
+  margin: 50px 0;
+  background-color: #EEEEEE;
+}
+
 /* tag_box ======================================================== */
 
 .tag_box {

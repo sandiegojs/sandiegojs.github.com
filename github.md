@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Using Github to contribute to sandiego.js
+description: Instruction on how members can contribute to the website using github.
 ---
 {% include JB/setup %}
 
