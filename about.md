@@ -10,10 +10,9 @@ description: San Diego JS history, leadership and contact information.
 We're a 1000+ member strong community full of some amazing people who love San Diego.
 
 Sandiego.js was started in 2011 by Patrick Crowley and Kevin Ball and has grown at a fast pace since its inception.
-[EvoNexus](http://www.commnexus.org/evonexus/), [WalmartLabs](http://www.walmartlabs.com/) and [FanPics](https://www.fanpics.com/) are our gracious hosts.
+[Zeeto Media](http://www.zeeto.io), [WalmartLabs](http://www.walmartlabs.com/) and [FanPics](https://www.fanpics.com/) are our gracious hosts.
 
-If anyone is interested in setting up new topic-focused meetups, please let us know via a [github issue][issues], email,
-or by poking us on the shoulder at any meetup.
+If anyone is interested in setting up new topic-focused meetups, please let us know via a [github issue][issues], email, or by poking us on the shoulder at any meetup.
 
 ### Keep Connected
 
@@ -24,44 +23,6 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
 ## The team
 
 <ul class="unstyled team-list">
-  <li class="row">
-    <div class="span3 pagination-centered">
-      <img src="http://www.gravatar.com/avatar/6bdfb79d08504f6f90ea2716fae9231c" class="avatar avatar-small"><br>
-      <a href="mailto:jstrimpel@gmail.com">Jason Strimpel</a>
-    </div>
-    <div class="span9">
-      <blockquote>
-      Jason Strimpel is a right picture, big brain developer. Jason has been taming browsers since Netscape 4 was major player in the market and tables were the preferred method for page layouts.
-      <br><br>
-      In addition to coding day and night Jason is the Geeklist ambassador for San Diego and a co-organizer of sandiego.js. Jason has a talent for over committing himself and then promising to "never do that again".
-      In his free time he enjoys frequently losing board games to his wife, Lasca. Jason is mostly harmless.
-      </blockquote>
-    </div>
-  </li>
-  <li class="row">
-    <div class="span3 pagination-centered">
-      <img src="http://www.gravatar.com/avatar/cc7dc3aa0a1058b3ffb4d2e9c9881ace" class="avatar avatar-small"><br>
-      <a href="mailto:johncozen@gmail.com">John Cozen</a>
-    </div>
-    <div class="span9">
-      <blockquote>
-      John Hardy Cozen brings the beloved classic stories of Dr. Seuss, The Berenstain Bears and more to
-      life on mobile devices with Encinitas-based Oceanhouse Media. When not dreaming up for apps for kids,
-      he's exploring the wonders of the universe with his wife and son.
-      </blockquote>
-    </div>
-  </li>
-  <li class="row">
-    <div class="span3 pagination-centered">
-      <img src="{{ASSET_PATH}}/img/kevin_ball_avatar.jpeg" class="avatar avatar-small"><br>
-      <a href="mailto:kmball11@gmail.com">Kevin Ball</a>
-    </div>
-    <div class="span9">
-      <blockquote>
-        Kevin Ball is an experienced web developer and entrepreneur.  He has co-founded and acted as CTO for 2 companies, founded the San Diego Javascript Meetup, is a regular presenter at local tech meetups, a mentor at Startup Weekend events, and an active Toastmaster.  He blogs at <a href='http://kevinmball.com'>KevinMBall.com</a>
-      </blockquote>
-    </div>
-  </li>
   <li class="row">
     <div class="span3 pagination-centered">
       <img src="http://www.gravatar.com/avatar/c1ab1a8a3169311b0062176c2814feff" class="avatar avatar-small"><br>
@@ -123,8 +84,6 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
 
 
 
-[Kevin]: mailto:kmball11@gmail.com
-[Jarrod]: mailto:jsoverson@gmail.com
 [meetup]: http://www.meetup.com/sandiegojs/ "Meetup.com page"
 [sandiegojs.github.com]: https://github.com/sandiegojs/sandiegojs.github.com "Sandiego.js Github site"
 [issues]: https://github.com/sandiegojs/sandiegojs.github.com/issues "Sandiego.js issue tracker"
