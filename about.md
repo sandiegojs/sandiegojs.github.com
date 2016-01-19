@@ -65,21 +65,32 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
     </div>
     <div class="span9">
       <blockquote>
-      Todd Bashor is a web development coach at <a href="http://thestartersacademy.com">The Starter's Academy</a>. He is a software industry veteran and loves teaching others about the power of web technology.  
+      Todd Bashor is a web development coach at <a href="http://thestartersacademy.com">The Starter's Academy</a>. He is a software industry veteran and loves teaching others about the power of web technology.
       </blockquote>
     </div>
   </li>
-    <li class="row">
-      <div class="span3 pagination-centered">
-        <img src="http://www.gravatar.com/avatar/2dab28a09a825fe18acfa9b5457200d4" class="avatar avatar-small"><br>
-        <a href="mailto:michael.e.roberts.jr@gmail.com">Michael Roberts Jr</a>
-      </div>
-      <div class="span9">
-        <blockquote>
-        Michael Roberts Jr is a seasoned full-stack JavaScript developer, Sr. Software Engineer at <a href="http://zeeto.io">Zeeto</a> and Founder of <a href="http://www.sandiegocodeschool.io">San Diego Code School</a>.  
-        </blockquote>
-      </div>
-    </li>
+  <li class="row">
+    <div class="span3 pagination-centered">
+      <img src="http://www.gravatar.com/avatar/2dab28a09a825fe18acfa9b5457200d4" class="avatar avatar-small"><br>
+      <a href="mailto:michael.e.roberts.jr@gmail.com">Michael Roberts Jr</a>
+    </div>
+    <div class="span9">
+      <blockquote>
+      Michael Roberts Jr is a seasoned full-stack JavaScript developer, Sr. Software Engineer at <a href="http://zeeto.io">Zeeto</a> and Founder of <a href="http://www.sandiegocodeschool.io">San Diego Code School</a>.
+      </blockquote>
+    </div>
+  </li>
+  <li class="row">
+    <div class="span3 pagination-centered">
+      <img src="https://secure.gravatar.com/avatar/74deb6f39d07290a867bafe6530d5e77" class="avatar avatar-small"><br>
+      <a href="mailto:shrunyan@gmail.com">Stuart Runyan</a>
+    </div>
+    <div class="span9">
+      <blockquote>
+      Stuart Runyan is a San Diego native who's passionate about experiences the web can offer us and the technologies used to craft those. Currently working at <a href="https://zesty.io">Zesty.io</a> as a Software Engineer. Available for taco shop advisement.
+      </blockquote>
+    </div>
+  </li>
 </ul>
 
 
