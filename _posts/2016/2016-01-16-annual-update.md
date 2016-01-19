@@ -10,7 +10,7 @@ details : A retrospective and prospective on our community and our goals
 
 ### Opening thoughts :)
 
-The organizers for the SanDiego.js Community did something different at the beginning of this year. We got together for a kick-off meeting to talk about what we did in 2015, and what our goals are for 2016. In hindsight, I don't now why we haven't done this before.
+The organizers for the SanDiego.js Community did something different at the beginning of this year. We got together for a kick-off meeting to talk about what we did in 2015, and what our goals are for 2016. In hindsight, we don't now why we haven't done this before.
 
 We have a lot of great changes in store for this year and always welcome feedback. So please take the time to look over our ideas, and share your thoughts in the comments!
 
@@ -42,7 +42,7 @@ As an ambitious group of organizers (and members) we have very ambitious goals f
 
 * We want to get more SDJS swag in the hands of our members! We want it too :P
 
-* We are going to continue connecting with companies and organizations in San Diego that want to be more involved or sponsor. Right now we don't offer very many sponsorship opportunities outside of venue hosting and food/drink for events, but we are compiling a prospective for any interested companies or organizations.
+* We are going to continue connecting with companies and organizations in San Diego that want to be more involved or sponsor. Right now we don't offer very many sponsorship opportunities outside of venue hosting and food/drink for events, but we are compiling a prospectus for any interested companies or organizations.
 
 * We've better outlined what each of the organizer's roles are. The hope is that by each of us having a focus, we can be a better catalyst for members in the certain areas.
 
