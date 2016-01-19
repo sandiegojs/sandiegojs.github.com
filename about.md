@@ -91,6 +91,17 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
       </blockquote>
     </div>
   </li>
+  <li class="row">
+    <div class="span3 pagination-centered">
+      <img src="http://www.gravatar.com/avatar/1cfb9ffded51eb05f1d701434bec8ef7" class="avatar avatar-small"><br>
+      <a href="http://abishaigray.com/">Abishai Gray</a>
+    </div>
+    <div class="span9">
+      <blockquote>
+      Abishai Gray is full stack developer, but specializes in front end development and tooling. In addition to sharing his in-depth knowledge, he loves to hear about what other people are doing and how they feel about the development projects they're working on.
+      </blockquote>
+    </div>
+  </li>
 </ul>
 
 
