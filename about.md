@@ -26,13 +26,11 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
   <li class="row">
     <div class="span3 pagination-centered">
       <img src="http://www.gravatar.com/avatar/c1ab1a8a3169311b0062176c2814feff" class="avatar avatar-small"><br>
-      <a href="mailto:h.a.brysiewicz@gmail.com">Heather Brysiewicz</a>
+      <a href="hbrysiewicz.github.io/about.html">Heather Brysiewicz</a>
     </div>
     <div class="span9">
       <blockquote>
-      Heather Brysiewicz is an Ember.js developer recently transplanted
-      from Chicago. Along with her pomeranian, Squirt, she enjoys life at the
-      beach and long nights at coffee shops.
+      Heather Brysiewicz is an Ember.js consultant and full-stack developer who transplanted from Chicago. Along with her pomeranian, Squirt, she enjoys life at the beach and long nights at coffee shops.
       </blockquote>
     </div>
   </li>
