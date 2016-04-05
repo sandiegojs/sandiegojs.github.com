@@ -1,14 +1,14 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
-
+baseurl: .
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: redcarpet
 
 redcarpet:
   extensions: []
 
-highlighter: pygments
+highlighter: rouge
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
