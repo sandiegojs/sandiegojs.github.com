@@ -87,29 +87,10 @@ description: San Diego's JavaScript users group featuring events, meet-ups, educ
 
 <div class="page-divider"></div>
 
-### Sponsored and supported by
+<!-- ### Sponsored and supported by -->
 
-<div class="b-sponsors">
-  <div class="row">
-    <div class="span4">
-      <a href="http://www.walmartlabs.com/"><img src="{{ASSET_PATH}}/img/brands/walmartlabs.png" alt="@WalmartLabs" class="logo logo-walmartlabs"></a>
-    </div>
-    <div class="span4">
-      <a href="http://github.com/onehealth/"><img src="{{ASSET_PATH}}/img/brands/fashioningchange.png" alt="OneHealth" class="logo logo-fc"></a>
-    </div>
-    <div class="span4">
-      <!--<a href="http://3rdspace.co/"><img src="{{ASSET_PATH}}/img/brands/3rdspace.png" alt="3rdSpace" class="logo logo-3rdspace"></a>-->
-      <a href="http://jetbrains.com/"><img src="{{ASSET_PATH}}/img/brands/jetbrains.gif" alt="JetBrains" class="logo logo-jetbrains"></a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="span4">&nbsp;</div>
-    <div class="span4">
-      <a href="http://geekgirlcamp.com/"><img src="{{ASSET_PATH}}/img/brands/geekgirl.png" alt="Geek Girl" class="logo"></a>
-    </div>
-    <div class="span4">&nbsp;</div>
-  </div>
-</div>
+<!-- <div class="b-sponsors"> -->
+<!-- </div> -->
 
 [meetup]: http://www.meetup.com/sandiegojs/ "Meetup.com page"
 [github]: https://github.com/sandiegojs/sandiegojs.github.com "Sandiego.js Github site"
