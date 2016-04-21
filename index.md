@@ -87,10 +87,16 @@ description: San Diego's JavaScript users group featuring events, meet-ups, educ
 
 <div class="page-divider"></div>
 
-<!-- ### Sponsored and supported by -->
+### Sponsored and supported by
 
-<!-- <div class="b-sponsors"> -->
-<!-- </div> -->
+<div class="b-sponsors">
+  <div class="row">    +<!-- </div> -->
+    <div class="span4">
+      <a href="https://www.accelebrate.com/training/reactjs-es6">
+        <img src="{{ASSET_PATH}}/img/sponsors/accelebrate.jpg" alt="Accelebrate" class="logo logo-accelebrate"></a>
+    </div>
+  </div>
+</div>
 
 [meetup]: http://www.meetup.com/sandiegojs/ "Meetup.com page"
 [github]: https://github.com/sandiegojs/sandiegojs.github.com "Sandiego.js Github site"
