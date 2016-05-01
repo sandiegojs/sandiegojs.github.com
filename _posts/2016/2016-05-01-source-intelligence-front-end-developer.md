@@ -5,77 +5,56 @@ tags : [job]
 title : Source Intelligence Front End Web Developer
 ---
 
-###Company Description
-CourseKey is a growing innovative education software company that utilizes 
-student devices to create a more engaging and effective classroom experience. 
-We are looking for a Front End Web Developer to work closely with our 
-development team to refine the current web application and enhance user experience. 
-Founded in 2014, our platform is currently being used by over 100 large lectures 
-in several universities with thousands of users across the country and we are 
-expanding rapidly!
+###Make a Real Difference
+If you want your work to make a difference in the world, we are the company for 
+you!  Founded in 2010, San Diego based Source Intelligence 
+([www.sourceintelligence.com](http://www.sourceintelligence.com)) is a 
+well-funded market leader that directly impacts the environment ensuring that 
+companies supply chains are socially and environmentally responsible by meeting 
+legal and ethical standards worldwide.
 
-* Website: [Course Key](http://thecoursekey.com/)
-* Location: Downtown San Diego
+###Make an Impact
+We want you to go home every day with the satisfaction that what you are doing 
+not only impacts our forward thinking company, but the environment and 
+companies’ social responsibility.  We want you to be empowered and use your 
+creativity in creating stunning UX designs and translating them into prototypes 
+and working features. Our motto is “stimulate your mind and feed your soul”.  
+We are growing fast, and looking to expand our software engineering group with 
+passionate and motivated people who enjoy working within a talented development 
+team.
 
-
-###Position Description
-Looking for a frontend developer who is experienced in either Angular JS or
-React. Responsibilities will be to build a new version of our web application 
-using new designs and mockups. As the front end developer you will be in charge 
-of developing, connecting backend, and prototyping UI mockups.
-
-The web application must meet the following requirements:
-
-* Web Content Accessibility Guidelines (WCAG 2.0)
-* Responsive (compatible with mobile browsers)
-* Cross browser compatibility (Edge, Chrome, FireFox, Safari)
-
-Must be able to work in our Downtown San Diego Office.
-
-####Perks
-* Ping Pong T able
-* Pool T able
-* Balcony Eating area that overlooks the city
-* Regularly catered food
-* Beer on Tap!
-
-####Stack
-Front End:
-
-Since it will be a new project you will be in charge of deciding which tools to 
-use (after approval). However, you must have experience with:
-
-* Unit Testing
-* CSS Frameworks
-* Build tools
-
-Back End:
-
-* Restful NodeJS server
-* Socket Server
-* AWS RDS/MySQL 
-* MongoDB
-
-Salary: $55,000 - $65,000/yr
+###Responsibilities
+* Creating reusable UI components
+* Designing RESTful APIs
+* Advocating evidence-based design through the Lean approach of hypothesize, build, test, learn
+* Designing information architecture and workflows
+* Conducting user testing and reporting on the outcomes
+* Designing consistent experiences across multiple devices
 
 ###Requirements
+* 5+ years of experience in user-centered design
+* 3+ years of cross-platform web application coding
+* In depth knowledge of HTML, CSS, and JavaScript 
+* Experience with LESS/SaSS or equivalent
+* Experience with templating languages, such as Handlebars, Jade, etc.
+* Experience with Javascript frameworks, such as Bootstrap, AngularJS, Ember.js
+* Experience with Javascript libraries, such jQuery, ReactJS, or equivalent
+* Experience with data visualization, using tools like highcharts or d3
+* Experience designing RESTful APIs
+* You like to creating new UI web components
+* You like to prototype features and build iterations based on mockups
+* You have an empathy for users and the passion and knowledge of web & mobile UX/UI, to deliver an empowering user experience
+* Able to work closely with Product and UX design teams to create simple and intuitive interfaces.
+* Knowledge of relational databases (e.g, MySQL, Oracle) and NoSQL databases (e.g, Mongo, Cassandra)
+* Experience with Node.js is a huge plus
+* Knowledge of Java or C++ or equivalent non-scripted language preferred
 
-Proficiency in:
 
-* Angular JS
-* HTML
-* CSS Frameworks
-* Demonstrable front end development by submission of a strong portfolio
+####Benefits
+Enjoy a stimulating working environment with smart and passionate people who 
+are athletes, foodies, artists, musicians, hikers and cyclists.  We offer 
+competitive pay and generous benefits including health, dental, 401K w/match, 
+etc.  We have a flexible work environment, ping-pong tournaments, movie nights, 
+food truck rallies + more.
 
-###Other Desirable Skills
-* Familiar with JS Doc
-
-###Qualifications
-* 4-year Bachelor’s Degree or equivalent work experience 
-* Min of 2 years in applied Front End Web Development 
-* Applied Experience in Angular JS, HTML, CSS Frameworks
-
-###More Information
-Must include cover letter and portfolio of previous work
-
-Contact [careers@thecoursekey.com](mailto:careers@thecoursekey.com)
+Contact Cyndi Summers at [jobs@sourceintelligence.com ](mailto:jobs@sourceintelligence.com)
