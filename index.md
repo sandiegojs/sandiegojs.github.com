@@ -90,10 +90,14 @@ description: San Diego's JavaScript users group featuring events, meet-ups, educ
 ### Sponsored and supported by
 
 <div class="b-sponsors">
-  <div class="row">    +<!-- </div> -->
+  <div class="row">
     <div class="span4">
       <a href="https://www.accelebrate.com/training/reactjs-es6">
         <img src="{{ASSET_PATH}}/img/sponsors/accelebrate.jpg" alt="Accelebrate" class="logo logo-accelebrate"></a>
+    </div>
+    <div class="span4">
+      <a href="//integratedassociatesinc.com">
+        <img src="/assets/themes/twitter/img/sponsors/integrated-associates.jpg" alt="Integrated Associates" class="logo logo-integrated-associates"></a>
     </div>
   </div>
 </div>
