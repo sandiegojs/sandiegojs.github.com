@@ -11,7 +11,7 @@ description: San Diego's JavaScript users group featuring events, meet-ups, educ
   <div class="span6">
     <h4>Every First Tuesday</h4>
     <p>
-      Every first Tuesday is our official meetup where we get together at <a href="https://www.commnexus.org/incubator/">EvoNexus</a>* for presentations from the community and then chat at a local bar. Talks generally range from 30 to 90 minutes and are of any web or JavaScript related topic.<br><br>
+      Every first Tuesday is our official meetup where we get together at <a href="https://www.google.com/maps?f=q&hl=en&q=925+B+St.+Floor+5,+San+Diego,+CA,+us">Zeeto Downtown</a>* for presentations from the community and then chat at a local bar. Talks generally range from 30 to 90 minutes and are of any web or JavaScript related topic.<br><br>
       * <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and verify the venue!
     </p>
   </div>
