@@ -20,6 +20,10 @@ a.brand {
   color:#007FFE;
 }
 
+.logo-integrated-associates {
+  padding-top: 30%;
+}
+
 @media (min-width: 768px) {
   .navbar-inner>.container {
     width: 940px;
@@ -195,7 +199,7 @@ footer {
   left:0px;
   top:0px;
   background:#BF1722;
-  outline:0;  
+  outline:0;
   -webkit-transition: top .1s ease-in, background .5s linear;
     transition: top .1s ease-in, background .5s linear;
 }
