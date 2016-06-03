@@ -7,10 +7,10 @@ description: San Diego JS history, leadership and contact information.
 
 ## About Us
 
-We're a 1000+ member strong community full of some amazing people who love San Diego.
+We're a 2200+ member strong community full of some amazing people who love San Diego.
 
 Sandiego.js was started in 2011 by Patrick Crowley and Kevin Ball and has grown at a fast pace since its inception.
-[Zeeto Media](http://www.zeeto.io), [WalmartLabs](http://www.walmartlabs.com/) and [FanPics](https://www.fanpics.com/) are our gracious hosts.
+[Zeeto Media](http://www.zeeto.io), [Zesty.io](https://www.zesty.io/) and [Dev Bootcamp](http://devbootcamp.com/) are our gracious hosts.
 
 If anyone is interested in setting up new topic-focused meetups, please let us know via a [github issue][issues], email, or by poking us on the shoulder at any meetup.
 
@@ -18,7 +18,7 @@ If anyone is interested in setting up new topic-focused meetups, please let us k
 
 For general questions or conversation, get in touch with us through our [Google Group](https://groups.google.com/forum/#!forum/sandiegojs) or send an email to [the organizers](mailto:sandiegojs-organizers@googlegroups.com).
 
-We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#sandiegojs</a> channel on <a href="https://webchat.freenode.net/">FreeNode</a>.
+We're also on IRC and Slack!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#sandiegojs</a> channel on <a href="https://webchat.freenode.net/">FreeNode</a> or head over to <a href="http://sandiegojs.herokuapp.com">SanDiego.js Slackin</a> to get an invite to our community Slack room.
 
 ## The team
 
@@ -86,17 +86,6 @@ We're also on IRC!  Join us on the <a href="irc://irc.freenode.net/sandiegojs">#
     <div class="span9">
       <blockquote>
       Stuart Runyan is a San Diego native who's passionate about experiences the web can offer us and the technologies used to craft those. Currently working at <a href="https://zesty.io">Zesty.io</a> as a Software Engineer. Available for taco shop advisement.
-      </blockquote>
-    </div>
-  </li>
-  <li class="row">
-    <div class="span3 pagination-centered">
-      <img src="http://www.gravatar.com/avatar/1cfb9ffded51eb05f1d701434bec8ef7" class="avatar avatar-small"><br>
-      <a href="http://abishaigray.com/">Abishai Gray</a>
-    </div>
-    <div class="span9">
-      <blockquote>
-      Abishai Gray is full stack developer, but specializes in front end development and tooling. In addition to sharing his in-depth knowledge, he loves to hear about what other people are doing and how they feel about the development projects they're working on.
       </blockquote>
     </div>
   </li>

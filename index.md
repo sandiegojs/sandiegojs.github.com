@@ -11,15 +11,15 @@ description: San Diego's JavaScript users group featuring events, meet-ups, educ
   <div class="span6">
     <h4>Every First Tuesday</h4>
     <p>
-      Every first Tuesday is our official meetup where we get together at <a href="https://www.commnexus.org/incubator/">EvoNexus</a>* for presentations from the community and then chat at a local bar. Talks generally range from 30 to 90 minutes and are of any web or JavaScript related topic.<br><br>
+      Every first Tuesday is our official meetup where we get together at <a href="http://zeeto.io//">Zeeto</a>* for presentations from the community and then chat at a local bar. Talks generally range from 5 minute lightning talks to 45 minute full-length and are of any web or JavaScript related topic.<br><br>
       * <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and verify the venue!
     </p>
   </div>
   <div class="span6">
     <h4>Every Second Wednesday</h4>
     <p>
-      Every second Wednesday is our official Ember meetup where we get together primarily at <a href="https://www.commnexus.org/incubator/">EvoNexus</a>* for presentations, workshops, or casual discussion. We then carry our conversations to a local bar for some drinks. <br><br>
-      * sometimes this won't be on Wednesday, or at EvoNexus so <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and verify the venue!
+      Every second Wednesday is our official Ember meetup where we get together primarily at <a href="https://www.learnacademy.org/">LEARN Academy</a>* for presentations, workshops, or casual discussion. <br><br>
+      * <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and verify the venue!
     </p>
   </div>
 </div><br><br>
@@ -28,22 +28,22 @@ description: San Diego's JavaScript users group featuring events, meet-ups, educ
   <div class="span6">
     <h4>Every Third Tuesday</h4>
     <p>
-      Every third Tuesday is our informal Hacknight at <a href="https://www.fanpics.com/">Fanpics</a> where we get together for beer, pizza, chat, and code. Members of all skill levels are welcome and it's a good time for questions and discussion. If you have a particular topic, post on the <a href="http://www.meetup.com/sandiegojs/">meetup board</a> to gain interest.<br><br>
-      Check out <a href="{{BASE_PATH}}/hacknight.html">this page</a> for more info on <b>parking</b>!
+      Every third Tuesday is our informal BYOP (Bring Your Own Project) Night at <a href="https://devbootcamp.com/">Dev Bootcamp</a> where we get together for food, drink, chats, and codes. Members of all skill levels are welcome and it's a good time for questions and discussion. If you have a particular topic, post on the <a href="http://www.meetup.com/sandiegojs/">meetup board</a> to gain interest. <br><br>
+      * <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and verify the venue!
     </p>
   </div>
   <div class="span6">
-    <h4>Every Fourth Tuesday</h4>
+    <h4>Every Third Thursday</h4>
     <p>
-      Every fourth Tuesday is our North County meetup where we get together at <a href="http://www.walmartlabs.com/">WalmartLabs</a> in Carlsbad for a Javascript related talk and then head over to Pizza Port Bressi Ranch for continued socializing.<br><br>
-      Check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and check out the topic for this month.
+      Every third Thursday is our Node.js Social Hour where we get together at <a href="http://www.zesty.io/">Zesty.io</a> downtown. This is an informal hangout so feel free to stop by bring your laptop have a cold beverage and chat about problems or solutions you're dealing with in Node.<br><br>
+      * <strong>always</strong> check <a href="http://www.meetup.com/sandiegojs/">meetup.com</a> to rsvp and verify the venue
     </p>
   </div>
 </div><br><br>
 
 <div class="row">
   <div class="span8 offset2">
-    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=zlaLaBtLkfdE.kol3M-fO9JAA" width="640" height="480" frameborder="0" style="border:0;"></iframe>
+    <iframe src="https://www.google.com/maps/d/embed?mid=1cXpBF27EjERp_kyt1UCX0K-Ucwk" width="640" height="480"></iframe>
   </div>
 </div>
 
