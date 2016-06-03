@@ -26,7 +26,7 @@ We're also on IRC and Slack!  Join us on the <a href="irc://irc.freenode.net/san
   <li class="row">
     <div class="span3 pagination-centered">
       <img src="http://www.gravatar.com/avatar/c1ab1a8a3169311b0062176c2814feff" class="avatar avatar-small"><br>
-      <a href="hbrysiewicz.github.io/about.html">Heather Brysiewicz</a>
+      <a href="http://hbrysiewicz.github.io/about.html">Heather Brysiewicz</a>
     </div>
     <div class="span9">
       <blockquote>
