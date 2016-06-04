@@ -26,22 +26,11 @@ We're also on IRC and Slack!  Join us on the <a href="irc://irc.freenode.net/san
   <li class="row">
     <div class="span3 pagination-centered">
       <img src="http://www.gravatar.com/avatar/c1ab1a8a3169311b0062176c2814feff" class="avatar avatar-small"><br>
-      <a href="hbrysiewicz.github.io/about.html">Heather Brysiewicz</a>
+      <a href="http://hbrysiewicz.github.io/about.html">Heather Brysiewicz</a>
     </div>
     <div class="span9">
       <blockquote>
       Heather Brysiewicz is an Ember.js consultant and full-stack developer who transplanted from Chicago. Along with her pomeranian, Squirt, she enjoys life at the beach and long nights at coffee shops.
-      </blockquote>
-    </div>
-  </li>
-  <li class="row">
-    <div class="span3 pagination-centered">
-      <img src="http://www.gravatar.com/avatar/9b8ef36043e38d1182acd8f3e1e1067f" class="avatar avatar-small"><br>
-      <a href="http://smathson.github.io/about">Scott Mathson</a>
-    </div>
-    <div class="span9">
-      <blockquote>
-      Scott Mathson is an agile web developer currently building applications with AngularJS. He lives in Carlsbad with his wife and son and enjoys brewing and drinking beer, often simultaneously. Scott helps run the North County meetup.
       </blockquote>
     </div>
   </li>
@@ -97,4 +86,3 @@ We're also on IRC and Slack!  Join us on the <a href="irc://irc.freenode.net/san
 [sandiegojs.github.com]: https://github.com/sandiegojs/sandiegojs.github.com "Sandiego.js Github site"
 [issues]: https://github.com/sandiegojs/sandiegojs.github.com/issues "Sandiego.js issue tracker"
 [3rdspace]: http://3rdspace.co/ "3rdSpace"
-
