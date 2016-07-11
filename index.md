@@ -91,6 +91,10 @@ description: San Diego's JavaScript users group featuring events, meet-ups, educ
 
 <div class="b-sponsors">
   <div class="row">
+    <a href="//www.devbootcamp.com">
+      <img src="{{ASSET_PATH}}/img/sponsors/DBC.png" alt="DevBootCamp" class="logo logo-dbc"></a>
+  </div>
+  <div class="row">
     <div class="span4">
       <a href="https://www.accelebrate.com/training/reactjs-es6">
         <img src="{{ASSET_PATH}}/img/sponsors/accelebrate.jpg" alt="Accelebrate" class="logo logo-accelebrate"></a>
